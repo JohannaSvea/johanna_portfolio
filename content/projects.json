@@ -176,23 +176,24 @@
     "image": "content/photos/projects/PO-Korea.png",
     "color": "#C6DCFF",
     "table": {
-      "topic": "Dialogue and social learning",
-      "keywords": "Games, conflict navigation, dialogue, climate communication",
-      "team": "Johanna Weigel and co-design partners",
-      "partnership": "Public organizations and community networks",
-      "funding": "Independent design research support",
-      "duration": "2022 – 2023",
-      "location": "Berlin, Germany"
+      "topic": "Research into potential of generative AI to support social workers and adults involved in conflict mediation, and to enhance the effectiveness of mediation processes",
+      "output": "Insights and design principles to inform the development of AI-supported mediation tools, demo of the AI-powered reflection tool “Mirra” and supporting concept materials",
+      "keywords": "Human-Computer Interaction, Youth and Social Work, AI-enabled Service Innovation, Trust and Technology",
+      "team": "Liselotte Molin, Jihae Kim, Isaac Jyväsjärvi, Jenny Leppänen",
+      "partnership": "Aalto University, Finland (IDBM - Industry Project Course)\nAseman Lapset NGO, Finland",
+      "funding": "Aalto University Research Grant",
+      "duration": "2025 - 5 month, part-time",
+      "location": "Seoul, South Korea (Research)\nHelsinki, Finland"
     },
     "intro": "Using game-based facilitation to explore disagreement and support constructive dialogue around climate-related challenges.",
     "body": [
       {
         "heading": "Purpose",
-        "text": "The project uses design games to create a safe and playful environment for discussing conflictive perspectives and building shared understanding."
+        "text": "The project ...."
       },
       {
         "heading": "Process & Methods",
-        "text": "The experience draws on facilitation design, role-play, and reflective co-creation to help participants navigate disagreement and identify common ground."
+        "text": "The ...."
       }
     ]
   }
