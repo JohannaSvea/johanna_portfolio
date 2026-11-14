@@ -114,13 +114,14 @@
     "image": "content/photos/projects/PO-SingleParents.png",
     "color": "#98AEDE",
     "table": {
-      "topic": "Culture, collaboration, and public service transformation",
-      "keywords": "Cultural innovation, public service design, collaboration, organisational learning",
-      "team": "Johanna Weigel and public stakeholders",
-      "partnership": "Espoo City cultural actors and community organizations",
-      "funding": "Municipal support and project partnership",
-      "duration": "2024 – 2025",
-      "location": "Espoo, Finland"
+      "topic": "Analysis of structural, systemic challenges faced by single-parent families and opportunities for community-based interventions to strengthen social support networks",
+      "output": "Key insights into the current ecosystem of care and a product-service-system “Knitt” (interactive Figma app prototype), supported by a service blueprint and sustainable business model",
+      "keywords": "Social Wellbeing, Social Resilience, Ecosystems of Care, Non-policy-based Interventions",
+      "team": "Sushmita Charlu, Yuchen Tang, Takashige Doi, Natthorn Uliss, Andrea Botero Cabrera (Advisor)",
+      "partnership": "Aalto University, Finland\nService Design College, UK\nPhilips\nPienperheyhdistys NGO, Finland",
+      "funding": "Aalto University Research Grant",
+      "duration": "2025 - 5 month, part-time",
+      "location": "Helsinki, Finland"
     },
     "intro": "Designing collaborative practices for a cultural center that can better connect institutional strategy with community participation.",
     "body": [
@@ -160,7 +161,7 @@
       },
       {
         "heading": "Process & Methods",
-        "text": "The experience draws on facilitation design, role-play, and reflective co-creation to help participants navigate disagreement and identify common ground."
+        "text": "The process involved..."
       }
     ]
   },
