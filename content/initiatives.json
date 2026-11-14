@@ -62,11 +62,12 @@
     "image": "content/photos/projects/PO-Donut.png",
     "color": "#B8C792",
     "table": {
-      "topic": "Sustainable futures and collective wellbeing",
-      "keywords": "Doughnut Economics, systems change, cross-sector collaboration, public learning",
-      "team": "Johanna Weigel, partners and community stakeholders",
-      "partnership": "Local institutions, civic actors, and cross-sector collaborators",
-      "funding": "Participatory learning and civic collaboration",
+      "topic": "DEFI - Doughnut Economics Finland Initiative",
+      "Outputs": "Tools, XX",
+      "keywords": "Planetary Boundaries, SGDs, Systems change",
+      "team": "Duc, Sushi, Juho, Nghi, Angelina,Joseph, Bambi ",
+      "partnership": "DEAL",
+      "funding": "DEAL Global Doughnut Days Grant",
       "duration": "2025 – ongoing",
       "location": "Finland"
     },
@@ -88,11 +89,11 @@
     "image": "content/photos/projects/PO-Planetary.png",
     "color": "#98AEDE",
     "table": {
-      "topic": "Sustainability learning and intergenerational exchange",
-      "keywords": "Knowledge exchange, ecological literacy, co-learning, community practice",
-      "team": "Johanna Weigel and local educators",
-      "partnership": "Schools, neighborhood groups, and local facilitators",
-      "funding": "Local collaborative funding",
+      "topic": "Organizing Planetary Practices, a workshop series that brings together people with different expertise to sustainable being, living and making",
+      "keywords": "Knowledge exchange, co-learning, community practice",
+      "team": "Paul (Graphic Design)\nEric, Ronja, Joseph, XX (Workshop Hosts)",
+      "partnership": "Space21, Test Site",
+      "funding": "Sustainability Action Booster Grant",
       "duration": "2025 – 2026",
       "location": "Finland"
     },
@@ -100,7 +101,7 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "The initiative fosters intergenerational learning, bringing together people with different expertise, lived experiences, and approaches to sustainable living."
+        "text": "The initiative...."
       }
     ]
   },
@@ -114,13 +115,11 @@
     "image": "content/photos/projects/PO-India.png",
     "color": "#B8C792",
     "table": {
-      "topic": "Craft knowledge, heritage, and sustainable livelihoods",
-      "keywords": "Traditional craftsmanship, social innovation, cultural heritage, local economies",
-      "team": "Johanna Weigel and local craft communities",
-      "partnership": "Grassroots craft networks and regional collaborators",
-      "funding": "Research and community partnership support",
-      "duration": "2026 – ongoing",
-      "location": "India"
+      "topic": "XXX",
+      "keywords": "Traditional crafts, Social innovation, Cultural heritage, Local economies",
+      "team": "XX",
+      "duration": "2026 – 3 weeks (field research",
+      "location": "Bengaluru, India"
     },
     "intro": "Exploring how traditional craftsmanship can endure as a living, adaptive practice in a changing world.",
     "body": [
@@ -140,13 +139,13 @@
     "image": "content/photos/projects/PO-Orbital.png",
     "color": "#5E719A",
     "table": {
-      "topic": "Space sustainability and public awareness",
-      "keywords": "Orbital pollution, transdisciplinary knowledge, sustainability, space governance",
-      "team": "Johanna Weigel and international collaborators",
-      "partnership": "Interdisciplinary research networks and knowledge exchange partners",
-      "funding": "Academic and collaborative support",
-      "duration": "2025 – ongoing",
-      "location": "France"
+      "topic": "Organizing a 3-day international workshop programme on orbital pollution and space sustainability, bringing together researchers, experts, and students from multiple disciplines",
+      "keywords": "Orbital pollution, Space governance",
+      "team": "Beste, xxxx",
+      "partnership": "Unis....",
+      "funding": "Unite! University Alliance for Innovation and Technology Seed Fund",
+      "duration": "2025",
+      "location": "Grenoble,France"
     },
     "intro": "Raising awareness on space sustainability through interdisciplinary and international knowledge exchange.",
     "body": [
