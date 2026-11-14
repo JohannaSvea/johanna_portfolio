@@ -170,7 +170,7 @@ main {
 .crumbs {
   display: flex;
   gap: 6px;
-  font-size: var(--text);
+  font-size: 14px;
 }
 
 .crumbs a {
