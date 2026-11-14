@@ -9,11 +9,12 @@
     "image": "content/photos/projects/PO-FS.png",
     "color": "#5E719A",
     "table": {
-      "topic": "Food systems and community action",
-      "keywords": "Food waste, circularity, local resilience, social action",
-      "team": "Johanna Weigel, volunteers, local food actors",
-      "partnership": "Community kitchens and civic organizations",
-      "funding": "Community grant and in-kind support",
+      "topic": "Coordinating Aalto Foodsharing, a Grassroot organisation with the goal of inspiring a global movement in tackling food waste",
+      "Outcome": "Rescuing 7000+ kg of food annually through partnerships with 5 local food businesses, the operation of 3 community fridges, and a network of 40+ volunteers",
+      "keywords": "Food System Transition, Circularity, Local action, Climate action, Activism, Community building",
+      "team": "Lukas, Ronja, Richard, Edo, Timon, Hamid, Sumit",
+      "partnership": "Part of the Nordic Climate Justice Coalition\nDodo Ry\nTransition Town Network\nLocal food businesses",
+      "funding": "Sustainability Action Booster Grant",
       "duration": "2024 – ongoing",
       "location": "Finland"
     },
@@ -21,7 +22,7 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "This initiative explores how surplus food can become a community resource, rather than a source of waste or logistical challenge."
+        "text": "Global Movement in tackling food waste."
       }
     ]
   },
@@ -35,11 +36,11 @@
     "image": "content/photos/projects/PO-TestSite.png",
     "color": "#5F6D3B",
     "table": {
-      "topic": "Regenerative living and community experimentation",
-      "keywords": "Regeneration, ecological design, everyday care, collective learning",
-      "team": "Johanna Weigel and local collaborators",
-      "partnership": "Community gardens, neighborhood networks, and cultural practitioners",
-      "funding": "Voluntary support and local collaboration",
+      "topic": "Being part of Test Site, an open community garden and space for collective experimentation of regenerative practices and everyday sustainability",
+      "Experiments": "Natural Dying, Natural Ink, Sun-printing, Cooking with Nettle, Mycelium, Greenhouse building, Community gardening, Outdoor Summer Cafe",
+      "keywords": "Regeneration, Community Practice, Learning through Making",
+      "team": "Test Site Community, with 25+ active members",
+      "funding": "Aalto University, Sustainability Action Booster Grant",
       "duration": "2024 – ongoing",
       "location": "Finland"
     },
