@@ -907,7 +907,7 @@ a.card:focus-visible .card__arrow {
 
 .job__org {
   display: block;
-  text-transform: uppercase;
+  
 }
 
 .job summary::after {
