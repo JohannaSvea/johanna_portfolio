@@ -689,7 +689,7 @@ a.card:focus-visible .card__arrow {
   position: relative;
   display: grid;
   grid-template-columns: minmax(90px, 0.45fr) 1fr;
-  gap: 60px;
+  gap: 50px;
   padding: 10px 0;
   transition: background 0.2s ease;
 }
