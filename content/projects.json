@@ -9,7 +9,7 @@
     "image": "content/photos/projects/PO-Ghana.png",
     "color": "#5E719A",
     "table": {
-      "topic": "Case study of the DROP climate service app and its relationship with local weather knowledge and community practices in Ghana",
+      "topic": "A Case study of the DROP climate service app and its relationship with local weather knowledge and community practices in Ghana",
       "Output": "Recommendations and design principles for the development of climate services and the integration of local knowledge systems",
       "keywords": "Climate Resilience, Food Security, Agricultural Decision-Making, Local Knowledge Systems, Socio-Technical Systems",
       "team": "Andrea Botero Cabrera (Supervisor), Spyros Paparrizos (Advisor), Camila Hergatacorzian (Advisor)",
@@ -145,12 +145,13 @@
     "image": "content/photos/projects/PO-ÜBERmorgen.png",
     "color": "#B8C792",
     "table": {
-      "topic": "Dialogue and social learning",
-      "keywords": "Games, conflict navigation, dialogue, climate communication",
-      "team": "Johanna Weigel and co-design partners",
-      "partnership": "Public organizations and community networks",
-      "funding": "Independent design research support",
-      "duration": "2022 – 2023",
+      "topic": "Development of ÜBERmorgen - Ein Spiel um die Zukunft (a game about the future), an entertaining tool for improving communication skills and social competencies",
+      "output": "Crowdfunding campaign, production of boardgame, narrative audio instruction, online shop, partnerships and impact-oriented distribution model",
+      "keywords": "Games, Climate Communication, Skill Training",
+      "team": "Momo Arnoldt, Mareile Klose, Lao Wurth",
+      "partnership": "Universität der Künste Berlin, Germany\nUtopian Playground - Transmediale 2024\nFuturium\nOffenes Wohnzimmer",
+      "funding": "Crowdfunding\nDemokratie in der Mitte - Demokratie leben (BMBFSFJ)\nBerliner Bibliotheksverbund (Voebb)",
+      "duration": "2022 - 2023 (part-time)",
       "location": "Berlin, Germany"
     },
     "intro": "Using game-based facilitation to explore disagreement and support constructive dialogue around climate-related challenges.",
