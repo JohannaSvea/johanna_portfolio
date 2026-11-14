@@ -9,7 +9,8 @@
     "image": "content/photos/projects/PO-Ghana.png",
     "color": "#5E719A",
     "table": {
-      "topic": "A Use Case Analysis of the Climate Service DROP app in Ghana and its influence of local weather knowledge practices",
+      "topic": "Case study of the DROP climate service app and its relationship with local weather knowledge and community practices in Ghana",
+      "Output": "Recommendations and design principles for the development of climate services and the integration of local knowledge systems",
       "keywords": "Climate Resilience, Food Security, Agricultural Decision-Making, Local Knowledge Systems, Socio-Technical Systems",
       "team": "Andrea Botero Cabrera (Supervisor)\nSpyros Fapararizos (Advisor)\nCamila Hergatacorzian (Advisor)",
       "partnership": "Aalto University, Espoo, Finland (MA Thesis)\nSAFE4ALL Africa (EU Horizon Consortium)\nWageningen University, Netherlands\nTU Delft, Netherlands\nUniversity of Development Studies, Ghana",
