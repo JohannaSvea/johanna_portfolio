@@ -52,13 +52,14 @@
     "image": "content/photos/projects/PO-Mexico.png",
     "color": "#B8C792",
     "table": {
-      "topic": "Energy transition and food culture",
-      "keywords": "Solar cooking, traditional food practices, household energy, resilience",
-      "team": "Johanna Weigel and local co-design partners",
-      "partnership": "Community organizations and local food networks",
-      "funding": "Research support and partner collaboration",
-      "duration": "2024 – 2025",
-      "location": "Mexico, Yucatán"
+      "topic": "A Participatory Assessment of Solar Oven Integration within Traditional Mayan Food Practices",
+      "Output & Outcome": "Community-centered implementation strategy and educational cookbook-zine \n40% increase in participants' confidence and knowledge of solar cooking.",
+      "keywords": "Social Resilience, Energy Transitions, Health & Wellbeing, Water Security, Local Food Practices, Socio-Technical Systems",
+      "team": "Ren Ran\nZou Zhengzhen\nPragati Singhal (Mentor)\nBhattarabhop Viriyaroj (Mentor)",
+      "partnership": "Aalto University, Finland (Sustainable Global Technologies Course)\nModelo University, Mexico\nUniversidad Autonoma Metropolitana, Mexico\nEl 20 de Noviembre, Calakmul, Mexico (Mayan Community)\nDesign Your Action (DYA) NGO\nAction LAB Mexico (ALM)",
+      "funding": "TFK - Finnish National Agency for Education",
+      "duration": "2025 - 3 month, part-time",
+      "location": "Mexico, Calakmul, Campeche (Fieldwork - 3 weeks)"
     },
     "intro": "Exploring how solar technologies can support everyday food practices while respecting local cultural meanings and daily routines.",
     "body": [
