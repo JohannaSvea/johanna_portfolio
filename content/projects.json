@@ -53,7 +53,8 @@
     "color": "#B8C792",
     "table": {
       "topic": "A Participatory Assessment of Solar Oven Integration within Traditional Mayan Food Practices",
-      "Output & Outcome": "Community-centered implementation strategy and educational cookbook-zine. \n40% increase in participants' confidence and knowledge of solar cooking.",
+      "Output": "Community-centered implementation strategy and educational cookbook-zine",
+      "Outcome": "40% increase in participants' confidence and knowledge of solar cooking",
       "keywords": "Social Resilience, Energy Transitions, Health & Wellbeing, Water Security, Local Food Practices, Socio-Technical Systems",
       "team": "Ren Ran, Zou Zhengzhen, Pragati Singhal (Mentor), Bhattarabhop Viriyaroj (Mentor)",
       "partnership": "Aalto University, Finland (Sustainable Global Technologies Course)\nModelo University, Mexico\nUniversidad Autonoma Metropolitana, Mexico\nEl 20 de Noviembre, Calakmul, Mexico (Mayan Community)\nDesign Your Action (DYA) NGO\nAction LAB Mexico (ALM)",
@@ -84,8 +85,8 @@
     "color": "#5E719A",
     "table": {
       "topic": "A collaboration strategy for the Espoo Cultural Centre to strengthen cross-organizational innovation",
-      "keywords": "Organizational Strategy, Governance, Public Sector Innovation, Cultural Transformation, Employee Experience",
       "output": "Kultsa Co-Lab Program, including a concept handbook and framework, a strategic roadmap, a set of guiding principles, the Co-Lab canvas tool, and evaluation metrics",
+      "keywords": "Organizational Strategy, Governance, Public Sector Innovation, Cultural Transformation, Employee Experience",
       "team": "Sushmita Charlu, Elli Mattila, Julia Steinebach",
       "partnership": "Aalto University, Finland (Service Design Course)\nEspoo City x Cultural Center (Espoon Kultturikeskus)\nTapiola Library, Tapiola Sinfonietta, Espoo Music Institute",
       "duration": "2025 - 1 month, full-time",
@@ -125,11 +126,11 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "This project supports a cultural institution in designing collaboration models that are more participatory, strategic, and responsive to community needs and public value."
+        "text": "This project..."
       },
       {
         "heading": "Output & Impact",
-        "text": "The result is a set of design concepts that help strengthen communication, community trust, and more inclusive public programming."
+        "text": "The result is..."
       }
     ]
   },
