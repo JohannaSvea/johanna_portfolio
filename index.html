@@ -1,207 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Johanna Weigel | Projects</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="projects" data-current="projects">
+    <main class="container">
+      <div class="topbar">
+        <span class="crumb" data-crumb="projects"><strong>projects</strong></span>
+        <span class="divider">/</span>
+        <a href="initiatives.html" class="crumb" data-crumb="initiatives">initiatives</a>
+        <span class="divider">/</span>
+        <a href="about.html" class="crumb" data-crumb="about">about</a>
+      </div>
 
-        body {
-            font-family: var(--font-sans, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif);
-            background: var(--surface-0);
-            color: var(--text-primary);
-            line-height: 1.7;
-        }
+      <header class="page-head">
+        <h1>Projects</h1>
+        <p>Here you can explore a selection of my research and design projects that I have been working on recently. Interdisciplinary and international in context, all reflect my interest in social and environmental issues.
+        </p>
+      </header>
 
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 3rem 1.5rem;
-        }
+      <div class="grid" data-project-grid></div>
+    </main>
 
-        nav {
-            margin-bottom: 3rem;
-            border-bottom: 1px solid var(--border);
-            padding-bottom: 1.5rem;
-        }
-
-        .breadcrumb {
-            display: flex;
-            gap: 0;
-            flex-wrap: wrap;
-            font-size: 14px;
-        }
-
-        .breadcrumb a {
-            color: var(--text-secondary);
-            text-decoration: none;
-            padding: 0.5rem 0.75rem 0.5rem 0;
-            transition: color 0.2s;
-        }
-
-        .breadcrumb a:hover {
-            color: var(--text-primary);
-        }
-
-        .breadcrumb a:not(:last-child)::after {
-            content: "/";
-            margin-left: 0.75rem;
-            color: var(--border-strong);
-        }
-
-        .hero {
-            display: grid;
-            grid-template-columns: 1fr 1.2fr;
-            gap: 3rem;
-            align-items: center;
-            margin-bottom: 2rem;
-        }
-
-        .photo-section {
-            display: flex;
-            justify-content: center;
-        }
-
-        .photo {
-            width: 280px;
-            height: 280px;
-            border-radius: 16px;
-            background: var(--surface-1);
-            border: 2px solid var(--border);
-            overflow: hidden;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: var(--text-secondary);
-            font-size: 14px;
-        }
-
-        .photo img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-
-        .intro-section h1 {
-            font-size: 32px;
-            font-weight: 500;
-            margin-bottom: 1rem;
-            color: var(--text-primary);
-        }
-
-        .intro-section p {
-            font-size: 16px;
-            color: var(--text-secondary);
-            margin-bottom: 1.5rem;
-            line-height: 1.8;
-        }
-
-        .intro-section .cta-links {
-            display: flex;
-            gap: 1rem;
-            flex-wrap: wrap;
-        }
-
-        .cta-button {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.75rem 1.5rem;
-            background: var(--surface-1);
-            color: var(--text-primary);
-            border: 1px solid var(--border-strong);
-            border-radius: var(--radius);
-            text-decoration: none;
-            font-size: 14px;
-            font-weight: 500;
-            transition: all 0.2s;
-            cursor: pointer;
-        }
-
-        .cta-button:hover {
-            background: var(--surface-2);
-            border-color: var(--border-stronger);
-        }
-
-        .cta-button.primary {
-            background: var(--bg-accent);
-            border-color: var(--bg-accent);
-            color: white;
-        }
-
-        .cta-button.primary:hover {
-            opacity: 0.9;
-        }
-
-        @media (max-width: 768px) {
-            .container {
-                padding: 2rem 1rem;
-            }
-
-            .hero {
-                grid-template-columns: 1fr;
-                gap: 2rem;
-            }
-
-            .photo {
-                width: 240px;
-                height: 240px;
-            }
-
-            .intro-section h1 {
-                font-size: 28px;
-            }
-
-            .breadcrumb {
-                font-size: 12px;
-            }
-
-            .breadcrumb a {
-                padding: 0.4rem 0.5rem 0.4rem 0;
-            }
-
-            .breadcrumb a:not(:last-child)::after {
-                margin-left: 0.5rem;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <nav>
-            <div class="breadcrumb">
-                <a href="#home">home</a>
-                <a href="#about">about me</a>
-                <a href="#projects">projects</a>
-                <a href="#experiments">experiments</a>
-            </div>
-        </nav>
-
-        <section class="hero">
-            <div class="photo-section">
-                <div class="photo">
-                    <img src="https://github.com/JohannaSvea/johanna.portfolio/blob/main/pictures/P1013012.JPG_202605271943.jpeg">
-                </div>
-            </div>
-
-            <div class="intro-section">
-                <h1>Hey, I'm Johanna! </h1>
-                <p>
-                    I enjoy working with people across cultures and diciplines. 
-                    Welcome to my portfolio. This space showcases my work, experiments, and ideas. 
-                    
-                </p>
-                <div class="cta-links">
-                    <a href="mailto:your.email@example.com" class="cta-button primary">Get in touch</a>
-                    <a href="#projects" class="cta-button">See my work</a>
-                </div>
-            </div>
-        </section>
-    </div>
-</body>
+    <script src="script.js"></script>
+  </body>
 </html>
