@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "food-waste-initiative",
+    "title": "How can we take community-led action against food waste?",
+    "subtitle": "Building networks and local partnerships to reduce and share surplus food",
+    "location": "Finland",
+    "coordinates": [60.185497, 24.824737],
+    "year": 2024,
+    "image": "content/photos/projects/PO-FS.png",
+    "color": "#5E719A",
+    "table": {
+      "topic": "Food systems and community action",
+      "keywords": "Food waste, circularity, local resilience, social action",
+      "team": "Johanna Weigel, volunteers, local food actors",
+      "partnership": "Community kitchens and civic organizations",
+      "funding": "Community grant and in-kind support",
+      "duration": "2024 – ongoing",
+      "location": "Finland"
+    },
+    "intro": "Creating local networks that reduce food waste while strengthening neighborhood relationships and practical solidarity.",
+    "body": [
+      {
+        "heading": "Purpose",
+        "text": "This initiative explores how surplus food can become a community resource, rather than a source of waste or logistical challenge."
+      }
+    ]
+  },
+  {
+    "slug": "testsite-regenerative-living",
+    "title": "How can we experiment with more regenerative ways of living and making?",
+    "subtitle": "Practicing a culture of creativity, experimentation and care in relation with nature",
+    "location": "Finland",
+    "coordinates": [60.1699, 24.9384],
+    "year": 2024,
+    "image": "content/photos/projects/PO-TestSite.png",
+    "color": "#5F6D3B",
+    "table": {
+      "topic": "Regenerative living and community experimentation",
+      "keywords": "Regeneration, ecological design, everyday care, collective learning",
+      "team": "Johanna Weigel and local collaborators",
+      "partnership": "Community gardens, neighborhood networks, and cultural practitioners",
+      "funding": "Voluntary support and local collaboration",
+      "duration": "2024 – ongoing",
+      "location": "Finland"
+    },
+    "intro": "Practicing a culture of creativity, experimentation and care in relation with nature.",
+    "body": [
+      {
+        "heading": "Purpose",
+        "text": "This initiative explores how everyday living, making, and community practice can become more regenerative, grounded, and connected to local ecological systems."
+      }
+    ]
+  },
+  {
+    "slug": "donut",
+    "title": "How can we meet the needs of all living people?",
+    "subtitle": "Translating Doughnut Economics into practice in Finland through cross-sector collaboration and collective learning",
+    "location": "Finland",
+    "coordinates": [60.1699, 24.9384],
+    "year": 2026,
+    "image": "content/photos/projects/PO-Donut.png",
+    "color": "#B8C792",
+    "table": {
+      "topic": "Sustainable futures and collective wellbeing",
+      "keywords": "Doughnut Economics, systems change, cross-sector collaboration, public learning",
+      "team": "Johanna Weigel, partners and community stakeholders",
+      "partnership": "Local institutions, civic actors, and cross-sector collaborators",
+      "funding": "Participatory learning and civic collaboration",
+      "duration": "2025 – ongoing",
+      "location": "Finland"
+    },
+    "intro": "Translating social and ecological principles into actionable, collective practice across sectors and communities.",
+    "body": [
+      {
+        "heading": "Purpose",
+        "text": "The initiative explores how Doughnut Economics can move from concept into practice through collaborative learning, awareness-building, and local experimentation."
+      }
+    ]
+  },
+  {
+    "slug": "planetary-initiative",
+    "title": "How can we learn from each other’s knowledge and skills to create sustainable futures?",
+    "subtitle": "Creating collaborative learning spaces and intergenerational exchange",
+    "location": "Finland",
+    "coordinates": [60.182684, 24.825474],
+    "year": 2025,
+    "image": "content/photos/projects/PO-Planetary.png",
+    "color": "#98AEDE",
+    "table": {
+      "topic": "Sustainability learning and intergenerational exchange",
+      "keywords": "Knowledge exchange, ecological literacy, co-learning, community practice",
+      "team": "Johanna Weigel and local educators",
+      "partnership": "Schools, neighborhood groups, and local facilitators",
+      "funding": "Local collaborative funding",
+      "duration": "2025 – 2026",
+      "location": "Finland"
+    },
+    "intro": "Creating collaborative learning spaces that value lived experience, practical knowledge, and everyday sustainability practices.",
+    "body": [
+      {
+        "heading": "Purpose",
+        "text": "The initiative fosters intergenerational learning, bringing together people with different expertise, lived experiences, and approaches to sustainable living."
+      }
+    ]
+  },
+  {
+    "slug": "craftsmanship-initiative",
+    "title": "How can we sustain traditional craftsmanship in a changing world?",
+    "subtitle": "Exploring social innovation at the intersection of cultural heritage, entrepreneurship and living skills in South India",
+    "location": "India",
+    "coordinates": [11.1271, 78.6569],
+    "year": 2026,
+    "image": "content/photos/projects/PO-India.png",
+    "color": "#B8C792",
+    "table": {
+      "topic": "Craft knowledge, heritage, and sustainable livelihoods",
+      "keywords": "Traditional craftsmanship, social innovation, cultural heritage, local economies",
+      "team": "Johanna Weigel and local craft communities",
+      "partnership": "Grassroots craft networks and regional collaborators",
+      "funding": "Research and community partnership support",
+      "duration": "2026 – ongoing",
+      "location": "India"
+    },
+    "intro": "Exploring how traditional craftsmanship can endure as a living, adaptive practice in a changing world.",
+    "body": [
+      {
+        "heading": "Purpose",
+        "text": "This initiative examines the social and economic conditions needed to sustain craft-based knowledge, heritage, and local livelihoods in the face of modernisation and environmental change."
+      }
+    ]
+  },
+  {
+    "slug": "orbital-pollution-initiative",
+    "title": "How can we better understand and address the growing challenge of orbital pollution?",
+    "subtitle": "Raising awareness on space sustainability through interdisciplinary and international knowledge exchange",
+    "location": "France",
+    "coordinates": [48.8566, 2.3522],
+    "year": 2025,
+    "image": "content/photos/projects/PO-Orbital.png",
+    "color": "#5E719A",
+    "table": {
+      "topic": "Space sustainability and public awareness",
+      "keywords": "Orbital pollution, transdisciplinary knowledge, sustainability, space governance",
+      "team": "Johanna Weigel and international collaborators",
+      "partnership": "Interdisciplinary research networks and knowledge exchange partners",
+      "funding": "Academic and collaborative support",
+      "duration": "2025 – ongoing",
+      "location": "France"
+    },
+    "intro": "Raising awareness on space sustainability through interdisciplinary and international knowledge exchange.",
+    "body": [
+      {
+        "heading": "Purpose",
+        "text": "The initiative explores how orbital pollution can be understood as a growing sustainability challenge, requiring interdisciplinary dialogue, public awareness, and more responsible innovation practices."
+      }
+    ]
+  }
+]

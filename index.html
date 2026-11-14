@@ -3,28 +3,145 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Johanna Weigel | Projects</title>
-    <link rel="stylesheet" href="styles.css" />
+    <title>Johanna Weigel</title>
+    <meta name="description" content="Johanna Weigel – participatory researcher and collaborative designer. Projects, initiatives and background." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
   </head>
-  <body data-page="projects" data-current="projects">
-    <main class="container">
-      <div class="topbar">
-        <span class="crumb" data-crumb="projects"><strong>projects</strong></span>
-        <span class="divider">/</span>
-        <a href="initiatives.html" class="crumb" data-crumb="initiatives">initiatives</a>
-        <span class="divider">/</span>
-        <a href="about.html" class="crumb" data-crumb="about">about</a>
-      </div>
+  <body>
+    <a class="skip-link" href="#main" data-skip>Skip to content</a>
 
-      <header class="page-head">
-        <h1>Projects</h1>
-        <p>Here you can explore a selection of my research and design projects that I have been working on recently. Interdisciplinary and international in context, all reflect my interest in social and environmental issues.
-        </p>
-      </header>
+    <header class="site-header">
+      <nav class="crumbs" aria-label="Main navigation">
+        <a href="#about" data-crumb="about">about</a>
+        <span aria-hidden="true">/</span>
+        <a href="#projects" data-crumb="projects">projects</a>
+        <span aria-hidden="true">/</span>
+        <a href="#initiatives" data-crumb="initiatives">initiatives</a>
+      </nav>
+    </header>
 
-      <div class="grid" data-project-grid></div>
+    <nav class="stack-nav" aria-label="About page sections" data-stack-nav hidden>
+      <button type="button" data-stack-goto="0"><span>intro</span></button>
+      <button type="button" data-stack-goto="1"><span>map</span></button>
+      <button type="button" data-stack-goto="2"><span>background</span></button>
+    </nav>
+
+    <main id="main" tabindex="-1">
+      <!-- ABOUT (landing view) -->
+      <section class="view stack" data-view="about" aria-label="About">
+        <div class="stack__panel stack__panel--intro" id="stack-intro">
+        <div class="stack__inner">
+        <div class="hero reveal">
+          <div class="hero__top">
+            <h1 class="hero__title" data-about="heading">Hi, I´m Johanna!</h1>
+            <div class="photo-stack" data-photo-stack hidden>
+              <div class="photo-stack__cards" data-photo-cards tabindex="0" role="region" aria-roledescription="carousel" aria-label="Photos of Johanna – drag, click or use the arrow keys"></div>
+              <div class="photo-stack__controls">
+                <button type="button" class="icon-btn" data-photo-step="-1" aria-label="Previous photo"></button>
+                <span class="photo-stack__count" data-photo-count aria-live="polite"></span>
+                <button type="button" class="icon-btn" data-photo-step="1" aria-label="Next photo"></button>
+              </div>
+            </div>
+          </div>
+          <div class="hero__text" data-about="text"></div>
+          <p class="hero__contact" data-about="contact"></p>
+        </div>
+        <button type="button" class="scroll-hint" data-stack-goto="1">
+          <span>scroll to explore the map</span>
+          <svg viewBox="0 -960 960 960" fill="currentColor" aria-hidden="true"><path d="M480-200 240-440l56-56 144 144v-368h80v368l144-144 56 56-240 240Z"/></svg>
+        </button>
+        </div>
+        </div>
+
+        <div class="stack__panel stack__panel--map" id="stack-map">
+        <div class="stack__inner">
+        <section class="map-section" aria-labelledby="map-title">
+          <div class="map-section__head">
+            <h2 class="section-title" id="map-title">My projects and initiatives on the map</h2>
+            <div class="map-filter" role="group" aria-label="Show on map">
+              <button type="button" class="chip is-on" data-filter="project" aria-pressed="true">
+                <span class="chip__dot chip__dot--project"></span>projects
+              </button>
+              <button type="button" class="chip is-on" data-filter="initiative" aria-pressed="true">
+                <span class="chip__dot chip__dot--initiative"></span>initiatives
+              </button>
+            </div>
+          </div>
+          <div class="map" data-map>
+            <div class="map__canvas">
+              <svg class="map__land" data-map-land aria-hidden="true"></svg>
+              <svg class="map__links" data-map-links aria-hidden="true"></svg>
+              <div class="map__markers" data-map-markers></div>
+            </div>
+            <div class="map__popup" data-map-popup hidden></div>
+          </div>
+          <p class="map-hint">Hover over a dot to preview, click to pin the project.</p>
+        </section>
+        </div>
+        </div>
+
+        <div class="stack__panel stack__panel--cv" id="stack-cv">
+        <div class="cv reveal" data-cv>
+          <div class="cv__col" data-cv-col="left"></div>
+          <div class="cv__col" data-cv-col="right"></div>
+        </div>
+        </div>
+      </section>
+
+      <!-- PROJECTS -->
+      <section class="view" data-view="projects" aria-label="Projects" hidden>
+        <header class="page-head reveal">
+          <h1 class="page-title">Projects</h1>
+          <p class="lead">
+            Here you can explore a selection of my research and design projects that I have been working on recently.
+            Set in interdisciplinary and international contexts, all of them reflect my interest in social and
+            environmental issues.
+          </p>
+          <p class="lead"><strong>Text Work in progress.</strong></p>
+        </header>
+        <div class="grid" data-grid="project"></div>
+      </section>
+
+      <!-- INITIATIVES -->
+      <section class="view" data-view="initiatives" aria-label="Initiatives" hidden>
+        <header class="page-head reveal">
+          <h1 class="page-title">Initiatives</h1>
+          <p class="lead">
+            Here you can explore the sustainability-focused initiatives that I am working on in my free-time. Most of
+            them are still ongoing and some of them I have founded myself.
+          </p>
+          <p class="lead">
+            Across these projects, I have secured funding, built partnerships, coordinated teams, facilitated
+            workshops, hosted events, conducted research and experiments, documented processes, but most importantly
+            spent time and learned with like-minded people that share the same values and aspirations for a
+            regenerative future.
+          </p>
+        </header>
+        <div class="grid" data-grid="initiative"></div>
+      </section>
+
+      <!-- PROJECT / INITIATIVE DETAIL -->
+      <section class="view" data-view="detail" aria-label="Project detail" hidden>
+        <div data-detail></div>
+      </section>
     </main>
 
-    <script src="script.js"></script>
+    <footer class="site-footer">
+      <nav class="site-footer__nav" aria-label="Footer navigation">
+        <a href="#about">about</a>
+        <a href="#projects">projects</a>
+        <a href="#initiatives">initiatives</a>
+      </nav>
+      <div class="site-footer__social">
+        <a href="mailto:johanna.svea@gmx.de">Email</a>
+        <a href="#" data-todo-link>LinkedIn</a>
+      </div>
+      <p class="site-footer__copy">© <span data-year></span> Johanna Weigel</p>
+    </footer>
+
+    <script src="assets/js/script.js"></script>
   </body>
 </html>

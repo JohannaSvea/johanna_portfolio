@@ -1,14 +1,13 @@
 [
   {
     "slug": "ghana-weather",
-    "category": "project",
     "title": "How can local weather knowledge be integrated within climate adaptation services?",
     "subtitle": "Designing across knowledge systems for resilient agricultural decision-making in rural Ghana",
     "location": "Ghana",
     "coordinates": [9.744817, -0.781194],
     "year": 2026,
-    "image": "photos/PO-Ghana.png",
-    "color": "#c9d4b8",
+    "image": "content/photos/projects/PO-Ghana.png",
+    "color": "#5E719A",
     "table": {
       "topic": "A Use Case Analysis of the Climate Service DROP app in Ghana and its influence of local weather knowledge practices",
       "keywords": "Climate Resilience, Food Security, Agricultural Decision-Making, Local Knowledge Systems, Socio-Technical Systems",
@@ -38,20 +37,19 @@
       },
       {
         "heading": "Discussion & Contribution",
-        "text": "The thesis discusses the implications of these findings for the design of the DROP app and, more broadly, for the future practice of climate services and service design. It surfaces benefits and limitations of both local and technical knowledge systems and argues for bridging these disciplines. Overall, the research invites practitioners to reflect more rigorously on the meaning of local knowledge integration and illustrates the complexities of designing with multiple knowledge systems. <a href=\"#\">Read the final thesis here</a>"
+        "text": "The thesis discusses the implications of these findings for the design of the DROP app and, more broadly, for the future practice of climate services and service design. It surfaces benefits and limitations of both local and technical knowledge systems and argues for bridging these disciplines. Overall, the research invites practitioners to reflect more rigorously on the meaning of local knowledge integration and illustrates the complexities of designing with multiple knowledge systems. [Read the final thesis here](#)"
       }
     ]
   },
   {
     "slug": "mexico-food",
-    "category": "project",
     "title": "How can solar cooking be adapted to traditional Mayan food practices?",
     "subtitle": "Collaborative design for nutrition and cultural continuity in Mexico",
     "location": "Mexico",
     "coordinates": [18.97025, -89.61663],
     "year": 2025,
-    "image": "photos/PO-Mexico.png",
-    "color": "#d8d7d0",
+    "image": "content/photos/projects/PO-Mexico.png",
+    "color": "#B8C792",
     "table": {
       "topic": "Energy transition and food culture",
       "keywords": "Solar cooking, traditional food practices, household energy, resilience",
@@ -75,14 +73,13 @@
   },
   {
     "slug": "finland-espoo-culture",
-    "category": "project",
     "title": "How can we cultivate collaboration across the Espoo City Cultural Centre?",
     "subtitle": "Envisioning a future for organisational transformation and public innovation",
     "location": "Finland",
     "coordinates": [60.177850268387715, 24.804148070458524],
     "year": 2025,
-    "image": "photos/PO-Espoo.png",
-    "color": "#d9ddd0",
+    "image": "content/photos/projects/PO-Espoo.png",
+    "color": "#5E719A",
     "table": {
       "topic": "Culture, collaboration, and public service transformation",
       "keywords": "Cultural innovation, public service design, collaboration, organisational learning",
@@ -106,14 +103,13 @@
   },
   {
     "slug": "finland-single-parents",
-    "category": "project",
     "title": "How can we address the social and emotional challenges of single parenthood?",
     "subtitle": "Exploring new ecosystems of care to support the wellbeing of single parents in Finland",
     "location": "Finland",
     "coordinates": [60.1915728417266, 25.032634126282208],
     "year": 2025,
-    "image": "photos/PO-SingleParents.png",
-    "color": "#d9ddd0",
+    "image": "content/photos/projects/PO-SingleParents.png",
+    "color": "#98AEDE",
     "table": {
       "topic": "Culture, collaboration, and public service transformation",
       "keywords": "Cultural innovation, public service design, collaboration, organisational learning",
@@ -137,14 +133,13 @@
   },
   {
     "slug": "germany-ubermorge",
-    "category": "project",
     "title": "How can we navigate conflicting perspectives on the climate crisis?",
     "subtitle": "Playing with disagreement through dialogue, empathy and cooperation",
     "location": "Germany",
     "coordinates": [52.539373979399684, 13.398052779161068],
     "year": 2023,
-    "image": "photos/PO-ÜBERmorgen.png",
-    "color": "#d8d6ce",
+    "image": "content/photos/projects/PO-ÜBERmorgen.png",
+    "color": "#B8C792",
     "table": {
       "topic": "Dialogue and social learning",
       "keywords": "Games, conflict navigation, dialogue, climate communication",
@@ -168,14 +163,13 @@
   },
   {
     "slug": "korea-ai",
-    "category": "project",
     "title": "How can AI facilitate human understanding in conflict mediation processes?",
     "subtitle": "Prototyping human-centered AI for emotional preparedness and trust-building in Social Work",
     "location": "South-Korea x Finland",
-    "coordinates": [[37.532600, 127.024612], [60.170317442820895, 24.94106059744495]],
+    "coordinates": [[37.5326, 127.024612], [60.170317442820895, 24.94106059744495]],
     "year": 2025,
-    "image": "photos/PO-Korea.png",
-    "color": "#d8d6ce",
+    "image": "content/photos/projects/PO-Korea.png",
+    "color": "#C6DCFF",
     "table": {
       "topic": "Dialogue and social learning",
       "keywords": "Games, conflict navigation, dialogue, climate communication",
@@ -194,168 +188,6 @@
       {
         "heading": "Process & Methods",
         "text": "The experience draws on facilitation design, role-play, and reflective co-creation to help participants navigate disagreement and identify common ground."
-      }
-    ]
-  },
-  {
-    "slug": "food-waste-initiative",
-    "category": "initiative",
-    "title": "How can we take community-led action against food waste?",
-    "subtitle": "Building networks and local partnerships to reduce and share surplus food",
-    "location": "Finland",
-    "coordinates": [60.185497, 24.824737],
-    "year": 2024,
-    "image": "photos/PO-FS.png",
-    "color": "#dfe9d5",
-    "table": {
-      "topic": "Food systems and community action",
-      "keywords": "Food waste, circularity, local resilience, social action",
-      "team": "Johanna Weigel, volunteers, local food actors",
-      "partnership": "Community kitchens and civic organizations",
-      "funding": "Community grant and in-kind support",
-      "duration": "2024 – ongoing",
-      "location": "Finland"
-    },
-    "intro": "Creating local networks that reduce food waste while strengthening neighborhood relationships and practical solidarity.",
-    "body": [
-      {
-        "heading": "Purpose",
-        "text": "This initiative explores how surplus food can become a community resource, rather than a source of waste or logistical challenge."
-      }
-    ]
-  },
-  {
-    "slug": "testsite-regenerative-living",
-    "category": "initiative",
-    "title": "How can we experiment with more regenerative ways of living and making?",
-    "subtitle": "Practicing a culture of creativity, experimentation and care in relation with nature",
-    "location": "Finland",
-    "coordinates": [60.1699, 24.9384],
-    "year": 2024,
-    "image": "photos\\PO-TestSite.png",
-    "color": "#dfe8d9",
-    "table": {
-      "topic": "Regenerative living and community experimentation",
-      "keywords": "Regeneration, ecological design, everyday care, collective learning",
-      "team": "Johanna Weigel and local collaborators",
-      "partnership": "Community gardens, neighborhood networks, and cultural practitioners",
-      "funding": "Voluntary support and local collaboration",
-      "duration": "2024 – ongoing",
-      "location": "Finland"
-    },
-    "intro": "Practicing a culture of creativity, experimentation and care in relation with nature.",
-    "body": [
-      {
-        "heading": "Purpose",
-        "text": "This initiative explores how everyday living, making, and community practice can become more regenerative, grounded, and connected to local ecological systems."
-      }
-    ]
-  },
-  {
-    "slug": "donut",
-    "category": "initiative",
-    "title": "How can we meet the needs of all living people?",
-    "subtitle": "Translating Doughnut Economics into practice in Finland through cross-sector collaboration and collective learning",
-    "location": "Finland",
-    "coordinates": [60.1699, 24.9384],
-    "year": 2026,
-    "image": "photos/PO-Donut.png",
-    "color": "#dfe3d7",
-    "table": {
-      "topic": "Sustainable futures and collective wellbeing",
-      "keywords": "Doughnut Economics, systems change, cross-sector collaboration, public learning",
-      "team": "Johanna Weigel, partners and community stakeholders",
-      "partnership": "Local institutions, civic actors, and cross-sector collaborators",
-      "funding": "Participatory learning and civic collaboration",
-      "duration": "2025 – ongoing",
-      "location": "Finland"
-    },
-    "intro": "Translating social and ecological principles into actionable, collective practice across sectors and communities.",
-    "body": [
-      {
-        "heading": "Purpose",
-        "text": "The initiative explores how Doughnut Economics can move from concept into practice through collaborative learning, awareness-building, and local experimentation."
-      }
-    ]
-  },
-  {
-    "slug": "planetary-initiative",
-    "category": "initiative",
-    "title": "How can we learn from each other’s knowledge and skills to create sustainable futures?",
-    "subtitle": "Creating collaborative learning spaces and intergenerational exchange",
-    "location": "Finland",
-    "coordinates": [60.182684, 24.825474],
-    "year": 2025,
-    "image": "photos/PO-Planetary.png",
-    "color": "#d3dfd5",
-    "table": {
-      "topic": "Sustainability learning and intergenerational exchange",
-      "keywords": "Knowledge exchange, ecological literacy, co-learning, community practice",
-      "team": "Johanna Weigel and local educators",
-      "partnership": "Schools, neighborhood groups, and local facilitators",
-      "funding": "Local collaborative funding",
-      "duration": "2025 – 2026",
-      "location": "Finland"
-    },
-    "intro": "Creating collaborative learning spaces that value lived experience, practical knowledge, and everyday sustainability practices.",
-    "body": [
-      {
-        "heading": "Purpose",
-        "text": "The initiative fosters intergenerational learning, bringing together people with different expertise, lived experiences, and approaches to sustainable living."
-      }
-    ]
-  },
-  {
-    "slug": "craftsmanship-initiative",
-    "category": "initiative",
-    "title": "How can we sustain traditional craftsmanship in a changing world?",
-    "subtitle": "Exploring social innovation at the intersection of cultural heritage, entrepreneurship and living skills in South India",
-    "location": "India",
-    "coordinates": [11.1271, 78.6569],
-    "year": 2026,
-    "image": "photos/PO-India.png",
-    "color": "#d9d5c8",
-    "table": {
-      "topic": "Craft knowledge, heritage, and sustainable livelihoods",
-      "keywords": "Traditional craftsmanship, social innovation, cultural heritage, local economies",
-      "team": "Johanna Weigel and local craft communities",
-      "partnership": "Grassroots craft networks and regional collaborators",
-      "funding": "Research and community partnership support",
-      "duration": "2026 – ongoing",
-      "location": "India"
-    },
-    "intro": "Exploring how traditional craftsmanship can endure as a living, adaptive practice in a changing world.",
-    "body": [
-      {
-        "heading": "Purpose",
-        "text": "This initiative examines the social and economic conditions needed to sustain craft-based knowledge, heritage, and local livelihoods in the face of modernisation and environmental change."
-      }
-    ]
-  },
-  {
-    "slug": "orbital-pollution-initiative",
-    "category": "initiative",
-    "title": "How can we better understand and address the growing challenge of orbital pollution?",
-    "subtitle": "Raising awareness on space sustainability through interdisciplinary and international knowledge exchange",
-    "location": "France",
-    "coordinates": [48.8566, 2.3522],
-    "year": 2025,
-    "image": "photos/PO-Orbital.png",
-    "color": "#dce3e0",
-    "table": {
-      "topic": "Space sustainability and public awareness",
-      "keywords": "Orbital pollution, transdisciplinary knowledge, sustainability, space governance",
-      "team": "Johanna Weigel and international collaborators",
-      "partnership": "Interdisciplinary research networks and knowledge exchange partners",
-      "funding": "Academic and collaborative support",
-      "duration": "2025 – ongoing",
-      "location": "France"
-    },
-    "intro": "Raising awareness on space sustainability through interdisciplinary and international knowledge exchange.",
-    "body": [
-      {
-        "heading": "Purpose",
-        "text": "The initiative explores how orbital pollution can be understood as a growing sustainability challenge, requiring interdisciplinary dialogue, public awareness, and more responsible innovation practices."
       }
     ]
   }
