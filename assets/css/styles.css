@@ -759,8 +759,14 @@ a.card:focus-visible .card__arrow {
 
 .article__section a {
   color: var(--secondary);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+  transition: background-size 0.3s var(--ease);
+}
+
+.article__section a:hover,
+.article__section a:focus-visible {
+  background-size: 100% 1px;
 }
 
 .toc {
