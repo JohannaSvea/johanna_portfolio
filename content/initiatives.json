@@ -10,7 +10,7 @@
     "color": "#5E719A",
     "table": {
       "topic": "Coordinating Aalto Foodsharing, a Grassroot organisation with the goal of inspiring a global movement in tackling food waste",
-      "Outcome": "Rescuing 7000+ kg of food annually through partnerships with 5 local food businesses, the operation of 3 community fridges, and a network of 40+ volunteers",
+      "Outcome": "Rescuing 4000+ kg of food annually through partnerships with 5 local food businesses, the operation of 3 community fridges, and a network of 40+ volunteers",
       "keywords": "Food System Transition, Circularity, Local action, Climate action, Activism, Community building",
       "team": "Lukas, Ronja, Richard, Edo, Timon, Hamid, Sumit",
       "partnership": "Part of the Nordic Climate Justice Coalition\nDodo Ry\nTransition Town Network\nLocal food businesses",
@@ -22,7 +22,19 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "Global Movement in tackling food waste."
+        "text": "Our food system is broken. Currently, it is the primarly driver for the transgeression of our planetary boundaries. In Finland alone, 1.1 tons of edible food is thrown away every day (Natural Resources Institute Finland). \n\n**Ultimately, the question is not whether we transition away from the current system but rather how and to where?**\n\n For the past 3 years, I have worked on food system change from the end of the value chain, focusing on the reduction of food waste through Aalto Foodsharing in Finland. We are initiative at the intersection of community-led grassroots action, public awareness, and political advocacy. Our goal is to become a global movement in tackling food waste."
+      },
+      {
+        "heading": "Strategy",
+        "text": "The process involved..."
+      },
+      {
+        "heading": "Operations",
+        "text": "The process involved..."
+      },
+      {
+        "heading": "Events & Advocacy",
+        "text": "The process involved..."
       }
     ]
   },
