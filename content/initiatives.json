@@ -8,10 +8,10 @@
     "year": 2024,
     "image": "content/photos/projects/PO-FS.png",
     "images": [
-      { "image": "content/photos/FS/dinner.jpg", "caption": "This is a test caption, hihihi" },
-      { "image": "content/photos/FS/dodo_2.jpg", "caption": "" },
-      { "image": "content/photos/FS/fermentation-1.jpg", "caption": "" },
-      { "image": "content/photos/FS/joel_food_system.jpg", "caption": "" }
+      { "image": "content/photos/FS/dinner.jpg", "caption": "Community dinner with rescued food at Dodo ry" },
+      { "image": "content/photos/FS/dodo_2.jpg", "caption": "Workshop on the concept and operations of Foodsharing" },
+      { "image": "content/photos/FS/fermentation-1.jpg", "caption": "Workshop on food conservation" },
+      { "image": "content/photos/FS/joel_food_system.jpg", "caption": "Talk on circular food systems by expert Joel Tefke" }
     ],
     "color": "#5E719A",
     "table": {
@@ -28,7 +28,7 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "Our food system is broken. Currently, it is the primarly driver for the transgression of our planetary boundaries. In Finland alone, 1.1 tons of edible food is thrown away every day (Natural Resources Institute Finland). \n\n**Ultimately, the question is not whether we transition away from the current system but rather how and to where?**\n\n For the past 3 years, I have worked on food system change from the end of the value chain, focusing on the reduction of food waste through Aalto Foodsharing in Finland. We are an initiative at the intersection of community-led grassroots action, public awareness, and political advocacy. Our goal is to become a global movement in tackling food waste."
+        "text": "Our food system is broken. Currently, it is the primarly driver for the transgression of our planetary boundaries. In Finland alone, 1.1 tons of edible food is thrown away every single day (Natural Resources Institute Finland). \n\n**Ultimately, the question is not whether we transition away from the current system but rather how and to where?**\n\n For the past 3 years, I have worked on food system change from the end of the value chain, focusing on the reduction of food waste through Aalto Foodsharing in Finland. We are an initiative at the intersection of community-led grassroots action, public awareness, and political advocacy. Our goal is to become a global movement in tackling food waste."
       },
       {
         "heading": "Operations",
@@ -36,7 +36,7 @@
       },
       {
         "heading": "Outreach & Advocacy",
-        "text": "I also support with organizing and hosting of events for outreach and advocacy purposes. These include, for example, community dinner and cookouts, food system talks, workshop with experts on food conservation, pop-up food distributions or public activism actions. Further we enagage in various networks and with local and national actors, such as the Tipping Point Conference in Helsinki or the Oulu Food Waste Festival, to share our best practices and way of working and to advocate for systemic changes in food policy. "
+        "text": "I also support with organizing and hosting of events for outreach and advocacy purposes. These include, for example, community dinners and cookouts, food system talks, workshop with experts on food conservation, pop-up food distributions or public activism actions. Further we enagage in various networks and with local and national actors, such as the Tipping Point Conference in Helsinki or the Oulu Food Waste Festival, to share our best practices and way of working and to advocate for systemic changes in food policy. "
       },
       {
         "text": "[» Learn more on our website](https://foodsharing.fi/)"
