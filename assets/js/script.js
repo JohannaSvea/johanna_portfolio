@@ -200,6 +200,23 @@
       .map((s, i) => `<li><button type="button" data-toc="${i}">${mdInline(s.heading, { links: false })}</button></li>`)
       .join('');
 
+    const images = (Array.isArray(p.images) ? p.images : []).filter((item) => item && typeof item.image === 'string' && item.image.trim());
+    const tocHTML =
+      sections.length > 1
+        ? `<nav class="toc" aria-label="On this page"><p class="toc__label">On this page</p><ol>${toc}</ol></nav>`
+        : '';
+    const galleryHTML = images.length
+      ? `<div class="gallery">${images
+          .map(
+            (item) => `
+            <figure class="gallery__item">
+              <img src="${escapeHtml(encodeURI(item.image.trim()))}" alt="${escapeHtml(mdPlain(item.caption))}" loading="lazy" />
+              ${item.caption ? `<figcaption>${mdInline(item.caption)}</figcaption>` : ''}
+            </figure>`
+          )
+          .join('')}</div>`
+      : '';
+
     root.innerHTML = `
       <article class="detail">
         <a class="back-link" href="#${cat.view}" aria-label="Back to ${cat.plural}">${ICONS.back}</a>
@@ -212,7 +229,7 @@
         </div>
         <div class="detail__content">
           <div class="article">${article}</div>
-          ${sections.length > 1 ? `<aside class="toc" aria-label="On this page"><p class="toc__label">On this page</p><ol>${toc}</ol></aside>` : ''}
+          ${tocHTML || galleryHTML ? `<aside class="detail__aside">${tocHTML}${galleryHTML}</aside>` : ''}
         </div>
         ${
           siblings.length > 1
@@ -244,9 +261,38 @@
       $$('.article__section', root).forEach((s) => tocObserver.observe(s));
     }
 
+    $$('.gallery img', root).forEach((img) => img.addEventListener('load', fadeGallery));
+    requestAnimationFrame(fadeGallery);
+
     observeReveals(root);
     return p;
   }
+
+  /* ---------- Detail gallery: fade images in / out on scroll ----------
+     An image (with its caption) fades in while it rises from the bottom of the viewport and
+     fades out while it slides up under the sticky "On this page" box (or the header). */
+
+  const clamp01 = (n) => Math.min(1, Math.max(0, n));
+
+  function fadeGallery() {
+    const items = $$('[data-detail] .gallery__item');
+    if (!items.length) return;
+    const vh = window.innerHeight;
+    const toc = $('[data-detail] .toc');
+    const tocBottom = toc && toc.offsetParent ? toc.getBoundingClientRect().bottom : 0;
+    const top = Math.max(tocBottom, $('.site-header')?.getBoundingClientRect().bottom || 0);
+
+    items.forEach((item) => {
+      const r = item.getBoundingClientRect();
+      if (!r.height) return;
+      const fadeIn = (vh - r.top) / Math.min(r.height, vh * 0.4);
+      const fadeOut = 1 - (top - r.top) / r.height;
+      item.style.opacity = clamp01(Math.min(fadeIn, fadeOut)).toFixed(3);
+    });
+  }
+
+  window.addEventListener('scroll', fadeGallery, { passive: true });
+  window.addEventListener('resize', fadeGallery);
 
   /* ---------- World map ---------- */
 

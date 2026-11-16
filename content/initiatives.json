@@ -7,6 +7,12 @@
     "coordinates": [60.185497, 24.824737],
     "year": 2024,
     "image": "content/photos/projects/PO-FS.png",
+    "images": [
+      { "image": "content/photos/FS/dinner.jpg", "caption": "This is a test caption, hihihi" },
+      { "image": "content/photos/FS/dodo_2.jpg", "caption": "" },
+      { "image": "content/photos/FS/fermentation_2.jpg", "caption": "" },
+      { "image": "content/photos/FS/joel_food_system.jpg", "caption": "" }
+    ],
     "color": "#5E719A",
     "table": {
       "topic": "Coordinating Aalto Foodsharing, a Grassroot organisation with the goal of inspiring a global movement in tackling food waste",

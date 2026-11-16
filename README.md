@@ -66,6 +66,9 @@ overview page, on the map and as a detail page.
   "year": 2026,
   "coordinates": [9.74, -0.78],            // [latitude, longitude]; several places: [[lat, lng], [lat, lng]]
   "image": "content/photos/projects/PO-Ghana.png",   // landscape image, about 2.17 : 1
+  "images": [                                      // optional: shown under "On this page", same width, fade on scroll
+    { "image": "content/photos/FS/dinner.jpg", "caption": "Community dinner" }
+  ],
   "color": "#5E719A",                      // card colour; blue colours get blue text, others green
   "table": { "topic": "…", "team": "…" },  // "Project overview" table – any keys, shown in this order
   "body": [ { "heading": "Research Gap", "text": "…" } ]

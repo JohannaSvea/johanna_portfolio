@@ -772,6 +772,46 @@ a.card:focus-visible .card__arrow {
 .toc {
   position: sticky;
   top: 110px;
+  z-index: 1;
+  padding-bottom: 24px;
+  background: var(--bg);
+}
+
+/* Masks the gap above the sticky box so gallery images slide out of sight under it. */
+.toc::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 100%;
+  height: 110px;
+  background: var(--bg);
+}
+
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 16px;
+}
+
+.gallery__item {
+  margin: 0;
+  opacity: 0;
+  will-change: opacity;
+}
+
+.gallery__item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.gallery__item figcaption {
+  margin-top: 8px;
+  font-size: 13px;
+  line-height: 1.5;
+  opacity: 0.8;
 }
 
 .toc__label {
