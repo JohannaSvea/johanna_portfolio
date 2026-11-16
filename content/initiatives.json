@@ -51,6 +51,12 @@
     "coordinates": [60.1699, 24.9384],
     "year": 2024,
     "image": "content/photos/projects/PO-TestSite.png",
+    "images": [
+      { "image": "content/photos/TestSite/sun-printing 1.png", "caption": "Experimenting with sun-printing techniques with dryed plants from the garden" },
+      { "image": "content/photos/TestSite/Natural Dying 1.png", "caption": "Workshop on natural textile dying" },
+      { "image": "content/photos/TestSite/gardening.JPG", "caption": "Communal gardening and harvesting" },
+      { "image": "content/photos/TestSite/cafe2.JPG", "caption": "Outdoor Summer Cafe" }
+    ],
     "color": "#5F6D3B",
     "table": {
       "topic": "Being part of Test Site, an open community garden and space for collective experimentation of regenerative practices and everyday sustainability",
