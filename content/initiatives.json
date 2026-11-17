@@ -134,6 +134,12 @@
     "coordinates": [60.182684, 24.825474],
     "year": 2025,
     "image": "content/photos/projects/PO-Planetary.png",
+    "images": [
+      { "image": "content/photos/PlanetaryPractices/wellbeing-alice.png", "caption": "Collective Wellbeing Workshop" },
+      { "image": "content/photos/PlanetaryPractices/electronics.png", "caption": "Repairing Electronics Workshop" },
+      { "image": "content/photos/PlanetaryPractices/nettle.png", "caption": "Processing Nettle into Fiber Workshop" }
+      
+    ],
     "color": "#98AEDE",
     "table": {
       "topic": "Organizing Planetary Practices, a workshop series and co-learning program with diverse expertise in sustainable ways of being, living and making",
