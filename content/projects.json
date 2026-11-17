@@ -8,8 +8,10 @@
     "year": 2026,
     "image": "content/photos/projects/PO-Ghana.png",
     "images": [
-      { "image": "content/photos/space/poster.jpg", "caption": "XX" },
-      { "image": "content/photos/space/presentation.jpg", "caption": "XX" }
+      { "image": "content/photos/Ghana/benchmark.png", "caption": "Benchmarking and service safari of the DROP app (left) and SIW app (right)" },
+      { "image": "content/photos/Ghana/game.png", "caption": "Card game materials developed for the participatory workshops with farmers in Ghana" },
+      { "image": "content/photos/Ghana/workshop1.png", "caption": "Participants engaging in warm-up activity during the workshop" },
+      { "image": "content/photos/Ghana/rainmaker.jpg", "caption": "Conducting the narrative interview with the rainmaker during the fieldwork" }
     ],
     "color": "#5E719A",
     "table": {
@@ -34,20 +36,35 @@
       },
       {
         "heading": "Framework & Methodology",
-        "text": "The research is grounded in service design and design research lenses, such as the multi level service design framework, systems thinking, and the concept of soft impacts of  technological innovation. Further, I adopt a qualitative, exploratory methodology  with a participatory research approach, including community-based fieldwork in Ghana."
+        "text": "The research is grounded in service design and design research lenses, such as the multi level service design framework, systems thinking, and the concept of soft impacts of  technological innovation. Further, I adopt a qualitative, exploratory methodology  with a participatory research approach, including community-based fieldwork in Ghana:"
       },
       {
         "type": "image",
-        "image": "content/photos/Ghana/methods.png",
-        "caption": "Overview research methods"
+        "image": "content/photos/Ghana/methods.png"
+      },
+      {
+        "text": "Overall, my research approach was rooted in interactive game-based methods and tools. I applied card sorting and mapping activities during the online semi-structuredinterviews with the research team. Further, I developed a physical card game for the participatoryworkshop with farmers in Ghana to explore lived experiences and as means to mitigate power dynamics involved in the research process."
       },
       {
         "heading": "Findings",
         "text": "Findings illustrate local knowledge as highly localized, nuanced, contextual, culturally  embodied, applied for different purposes, primarily orally transmitted, impacted by climate  change, and held unevenly across roles, gender, and generations. Based on these  dimensions, my research identifies aspects of local knowledge that are represented and those  that are simplified when integrated into the DROP app interface. \n\nFurther, findings indicate  that digital climate service tools create social and cultural shifts in norms, meaning, values  and, thus, influence relationships and dynamics between community members, such as  social positions within community forecasting networks, or intergenerational processes  around local knowledge transmission."
       },
       {
+        "type": "image",
+        "image": "content/photos/Ghana/system map.png",
+        "caption": "Example of a system map which I use in my research to visualize my findings. In this case, the system map illustrates the shifts in intergenerational forecasting knowledge exchange."
+      },
+      {
         "heading": "Discussion & Contribution",
         "text": "Subsequently, I discuss the implications of these findings across multiple levels, which entail:\n→ Starting points for future design iterations for the design of the DROP app that may enrich local knowledge representation.\n→ Five design principles for the future development of climate services that aim to integrate local knowledge, which can be applied in other initiatives.\n→ Design opportunities for addressing the broader social and cultural systems in which climate services are embedded.\n→ Recommendations on the needed transformations within the practice of climate service development as well as service design by outlining current benefits and limitations of both practices.\n\nOverall, the research invites practitioners to reflect more rigorously on the meaning of local knowledge integration and illustrates the complexities of designing with various knowledge systems."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Ghana/findings-in-context.png"
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Ghana/principles.png"
       },
       {
         "text": "[» Read my thesis here](https://johannasvea.github.io/pdf_display/Thesis/Master-Design-CoID_Weigel_Johanna_2026.pdf)"
@@ -80,11 +97,11 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "The project investigates how ..."
+        "text": "Coming soon."
       },
       {
         "heading": "Process & Methods",
-        "text": "The research process..."
+        "text": "Coming soon."
       }
     ]
   },
@@ -110,7 +127,7 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "This project supports a cultural institution in designing collaboration models..."
+        "text": "Coming soon."
       },
       {
         "heading": "Output & Impact",
@@ -141,7 +158,7 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "This project..."
+        "text": "Coming soon."
       },
       {
         "heading": "Output & Impact",
