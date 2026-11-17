@@ -7,6 +7,10 @@
     "coordinates": [9.744817, -0.781194],
     "year": 2026,
     "image": "content/photos/projects/PO-Ghana.png",
+    "images": [
+      { "image": "content/photos/space/poster.jpg", "caption": "XX" },
+      { "image": "content/photos/space/presentation.jpg", "caption": "XX" }
+    ],
     "color": "#5E719A",
     "table": {
       "topic": "A Case study of the DROP climate service app and its relationship with local weather knowledge and community practices in Ghana",
@@ -22,23 +26,26 @@
     "body": [
       {
         "heading": "Research Gap",
-        "text": "In recent years, the emphasis on local knowledge integration within climate services for climate adaptation has grown. However, research on its practical implementation remains limited. Further, climate services have been primarily investigated from a technical perspective without accounting for the social and cultural impacts on communities and knowledge practices."
+        "text": "In recent years, the emphasis on local knowledge integration within the development of  climate services for climate adaptation has grown.However, research on its practical  implementation remains limited. Further, climate services have been primarily investigated  from a technical perspective without accounting for the social and cultural impacts on  communities and knowledge practices."
       },
       {
         "heading": "Objective & Use Case",
-        "text": "This thesis analyzes the representation and transformation of local knowledge and community dynamics through the case of the DROP app, a climate service used by smallholder farmers in Ghana. The analysis focuses on its current design and deployment in the country where the app was initially developed, and examines how it integrates scientific and local knowledge into digital climate service tools."
+        "text": "Thus, my research analyzes the representation and  transformation of local knowledge and community dynamics through the case of an  existing climate service and its most visible user touchpoint, the DROP app. My analysis  focuses on its current design and deployment in the country of Ghana, where the app was  initially developed. The DROP app provides weather forecast information for smallholder  farmers and represents one of the first practical examples that integrate scientific and local  knowledge into digital climate service tools."
       },
       {
         "heading": "Framework & Methodology",
-        "text": "The research is grounded in service design and design research lenses, including multi-level service design, systems thinking, and the concept of soft impacts of technological innovation. It adopts a qualitative, exploratory, participatory methodology with community-based fieldwork in Ghana."
+        "text": "The research is grounded in service design and design research lenses, such as the multi level service design framework, systems thinking, and the concept of soft impacts of  technological innovation. Further, I adopts a qualitative, exploratory methodology  with a participatory research approach, including community-based fieldwork in Ghana."
       },
       {
         "heading": "Findings",
-        "text": "Findings illustrate local knowledge as highly localized, nuanced, contextual, culturally embodied, and unevenly held across roles, gender, and generations. The thesis identifies which aspects of local knowledge are represented in the DROP app and which are simplified or displaced when integrated into the interface. It also points to social and cultural shifts in norms, meaning, and values, influencing relationships and dynamics within forecasting networks and intergenerational knowledge transmission."
+        "text": "Findings illustrate local knowledge as highly localized, nuanced, contextual, culturally  embodied, applied for different purposes, primarily orally transmitted, impacted by climate  change, and held unevenly across roles, gender, and generations. Based on these  dimensions, my research identifies aspects of local knowledge that are represented and those  that are simplified when integrated into the DROP app interface. \n\nFurther, findings indicate  that digital climate service tools create social and cultural shifts in norms, meaning, values  and, thus, influence relationships and dynamics between community members, such as  social positions within community forecasting networks, or intergenerational processes  around local knowledge transmission."
       },
       {
         "heading": "Discussion & Contribution",
-        "text": "The thesis discusses the implications of these findings for the design of the DROP app and, more broadly, for the future practice of climate services and service design. It surfaces benefits and limitations of both local and technical knowledge systems and argues for bridging these disciplines. Overall, the research invites practitioners to reflect more rigorously on the meaning of local knowledge integration and illustrates the complexities of designing with multiple knowledge systems. [Read the final thesis here](#)"
+        "text": "Subsequently, I discuss the implications of these findings across multiple levels, which entail:\n→ Starting points for future design iterations for the design of the DROP app that may enrich local knowledge representation.\n→ Five design principles for the future development of climate services that aim to integrate local knowledge, which can be applied in other initiatives.\n→Design opportunities for addressing the broader social and cultural systems in which climate services are embedded.\n→ Recommendations regarding the needed transformations within the practice of climate service development as well as service design by outlining current benefits and limitations of both practices.\n\nOverall, the research invites practitioners to reflect more rigorously on the meaning of local knowledge integration and illustrates the complexities of designing with various knowledge systems."
+      },
+      {
+        "text": "[» Read my thesis here](https://johannasvea.github.io/pdf_display/Thesis/Master-Design-CoID_Weigel_Johanna_2026.pdf)"
       }
     ]
   },
