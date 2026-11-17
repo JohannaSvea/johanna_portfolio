@@ -90,6 +90,12 @@
     "coordinates": [60.1699, 24.9384],
     "year": 2026,
     "image": "content/photos/projects/PO-Donut.png",
+    "images": [
+      { "image": "content/photos/Donut/donut-discovery ws 1.png", "caption": "Experimenting with sun-printing techniques with dryed plants from the garden" },
+      { "image": "content/photos/Donut/step-inside-the donut ws 1.jpg", "caption": "Communal gardening and harvesting" },
+      { "image": "content/photos/Donut/quick mapping - espoo 1.jpg", "caption": "Workshop on natural textile dying" },
+      { "image": "content/photos/Donut/walkshop1 1.jpg", "caption": "Outdoor Summer Cafe" }
+    ],
     "color": "#B8C792",
     "table": {
       "topic": "Facilitating research at Doughnut Economics Finland Initiative (DEFI) through participatory engagement and mapping of our social and ecological reality in Otanimie and Espoo to reimagine our economy within our planetary boundaries",
@@ -106,6 +112,13 @@
       {
         "heading": "Purpose",
         "text": "The initiative explores how Doughnut Economics can move from concept into practice through collaborative learning, awareness-building, and local experimentation."
+      }, 
+      {
+        "heading": "Contribution",
+        "text": "I am mainly involved in two projects."
+      },
+      {
+        "text": "[» Learn more on our website](https://doughnuteconomics.org/organisations-and-networks/doughnut-economics-finland-initiative-defi)"
       }
     ]
   },
