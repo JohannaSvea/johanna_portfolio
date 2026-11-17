@@ -138,7 +138,6 @@
       { "image": "content/photos/PlanetaryPractices/wellbeing-alice.png", "caption": "Collective Wellbeing Workshop" },
       { "image": "content/photos/PlanetaryPractices/electronics.png", "caption": "Repairing Electronics Workshop" },
       { "image": "content/photos/PlanetaryPractices/nettle.png", "caption": "Processing Nettle into Fiber Workshop" }
-      
     ],
     "color": "#98AEDE",
     "table": {
@@ -190,7 +189,7 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "This initiative examines the social and economic conditions needed to sustain craft-based knowledge, heritage, and local livelihoods in the face of modernisation and environmental change."
+        "text": "This initiative examines the social and economic conditions needed to sustain craft-based knowledge, heritage, and local livelihoods in the face of modernisation and environmental change.\n\n**More information and photos coming soon.**"
       }
     ]
   },
@@ -202,6 +201,9 @@
     "coordinates": [48.8566, 2.3522],
     "year": 2025,
     "image": "content/photos/projects/PO-Orbital.png",
+    "images": [
+      { "image": "content/photos/space/poster.jpg", "caption": "Workshop in Grenoble, France" }
+    ],
     "color": "#5E719A",
     "table": {
       "topic": "Organizing a 3-day international workshop programme on orbital pollution and space sustainability, bringing together researchers, experts, and students from multiple disciplines",
@@ -216,7 +218,18 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "The initiative explores how orbital pollution can be understood as a growing sustainability challenge, requiring interdisciplinary dialogue, public awareness, and more responsible innovation practices."
+        "text": "While we often focus on pollution in our air, water and land, orbital pollution remains an invisible challenge in mainstream discussions. The ongoing race for space innovation and technology has led to an increase in the number of satellites and other objects orbiting Earth, resulting in defunct rocket parts left behind and millions of pieces of space debris.\n\nThis debris impacts not only current and future scientific missions but also the space infrastructure that supports our everyday lives, from communication and navigation to weather forecasting and environmental monitoring."
+      },
+      {
+        "heading": "Process",
+        "text": "I participated in a Unite! Hackathon in Graz, Austria, where I met students from the other 7 Unite! Alliance universities. Back then, I was not aware of orbital pollution but was inspired to learn more about the issue and explore how we could raise awareness and foster interdisciplinary dialogue.\n\nTogether with students from ULisboa and Université Grenoble Alpes, I developed a project proposal for the Unite! Seed Fund, which was successfully selected for funding.\n\nFollowing this, I was involved in recruiting and selecting five students from each university with diverse academic backgrounds and a shared interest in the topic. Then, we collaboratively designed the three-day programme, including workshop activities, inviting external experts and arranging travel and practical logistics."
+      },
+      {
+        "heading": "Outcomes",
+        "text": "I co-hosted hosted the programm in person, at Université Grenoble Alpes in France. The programme opened with presentations from the students who shared their ongoing projects and research connected to orbital pollution. This was followed by guest lectures and group discussions, which introduced new perspectives and encouraged critical reflection. Further, hands-on activities allowed participants to engage more directly with the underlying tensions of orbital pollution and potential approaches to making space activities more sustainable.\n\n Overall, participants described that they not only gained new knowledge and insights into the topic, but also built new connections and future collaborations.\n\n**For me, orrganizing and hosting this programm was a particularly valuable experience on a personal level.** Although I had tutored students before, this experience involved a different level of responsibility. I took on both the role of the organiser as well as mentor by guiding a group of students throughout this international programme, including travelling together to another country."
+      },
+      {
+        "text": "[» Learn more on our website](https://www.unite-university.eu/)"
       }
     ]
   }
