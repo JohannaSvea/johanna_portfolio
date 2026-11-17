@@ -735,6 +735,23 @@ a.card:focus-visible .card__arrow {
   margin-top: 56px;
 }
 
+.article__image {
+  margin: 40px 0;
+}
+
+.article__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.article__image figcaption {
+  margin-top: 8px;
+  font-size: 13px;
+  line-height: 1.5;
+  opacity: 0.8;
+}
+
 .article__section h2 {
   margin: 0 0 var(--gap-head);
   font-family: var(--font-head);

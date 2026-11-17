@@ -185,15 +185,28 @@
       )
       .join('');
 
-    const sections = Array.isArray(p.body) ? p.body : [];
-    const article = sections
-      .map(
-        (s, i) => `
-        <section class="article__section reveal" id="section-${i}">
-          <h2>${mdInline(s.heading, { links: false })}</h2>
-          ${mdBlock(s.text)}
-        </section>`
-      )
+    const bodyItems = Array.isArray(p.body) ? p.body : [];
+    const sections = bodyItems.filter((item) => item.type !== 'image');
+    let sectionIndex = 0;
+    const article = bodyItems
+      .map((item) => {
+        if (item.type === 'image') {
+          const image = escapeHtml(encodeURI(item.image.trim()));
+          const caption = item.caption ? mdInline(item.caption) : '';
+          return `
+            <figure class="article__image reveal">
+              <img src="${image}" alt="${escapeHtml(mdPlain(item.caption))}" loading="lazy" />
+              ${caption ? `<figcaption>${caption}</figcaption>` : ''}
+            </figure>`;
+        }
+
+        const i = sectionIndex++;
+        return `
+          <section class="article__section reveal" id="section-${i}">
+            <h2>${mdInline(item.heading, { links: false })}</h2>
+            ${mdBlock(item.text)}
+          </section>`;
+      })
       .join('');
 
     const toc = sections
