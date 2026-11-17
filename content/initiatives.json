@@ -91,16 +91,16 @@
     "year": 2026,
     "image": "content/photos/projects/PO-Donut.png",
     "images": [
-      { "image": "content/photos/Donut/donut-discovery ws 1.png", "caption": "Experimenting with sun-printing techniques with dryed plants from the garden" },
-      { "image": "content/photos/Donut/step-inside-the donut ws 1.jpg", "caption": "Communal gardening and harvesting" },
-      { "image": "content/photos/Donut/quick mapping - espoo 1.jpg", "caption": "Workshop on natural textile dying" },
-      { "image": "content/photos/Donut/walkshop1 1.jpg", "caption": "Outdoor Summer Cafe" }
+      { "image": "content/photos/Donut/donut-discovery ws 1.png", "caption": "Donut Discovery Workshop Canvas" },
+      { "image": "content/photos/Donut/step-inside-the donut ws 1.jpg", "caption": "Facilitating the Step-Inside-the-Donut Workshop" },
+      { "image": "content/photos/Donut/quick mapping - espoo 1.jpg", "caption": "Engaging with residents using the Quick Participatory Doughnut Portrait Mapping Canvas" },
+      { "image": "content/photos/Donut/walkshop1 1.jpg", "caption": "Partcipants during the Walkshop engage with the interactive booklet" }
     ],
     "color": "#B8C792",
     "table": {
-      "topic": "Facilitating research at Doughnut Economics Finland Initiative (DEFI) through participatory engagement and mapping of our social and ecological reality in Otanimie and Espoo to reimagine our economy within our planetary boundaries",
-      "Outputs": "Capacity building and community events, Toolkits (eg. Quick Doughnut Portrait Mapping Canvas), Pop-ups, Workshops and Walkshops",
-      "keywords": "Alternative Economies, Planetary Boundaries, SGDs, Systems change",
+      "topic": "Facilitating research at Doughnut Economics Finland Initiative (DEFI) through participatory engagement and mapping of our social and ecological reality in Otanimie and Espoo to reimagine our economy",
+      "Outputs": "Capacity building and community events, Toolkits (eg. Quick Doughnut Portrait Mapping Canvas), Partnerships, Pop-ups, Workshops and Walkshops",
+      "keywords": "Alternative Economies, Local Policies, Planetary Boundaries, SGDs, Systems change",
       "team": "Duc, Sushmita, Juho, Nghi, Angelina,Joseph, Bambi ",
       "partnership": "Global Doughnut Economics Action Lab (DEAL)\nHEH - Good Life Think and Do Tank ry",
       "funding": "DEAL Global Doughnut Days Grant",
@@ -111,11 +111,15 @@
     "body": [
       {
         "heading": "Purpose",
-        "text": "The initiative explores how Doughnut Economics can move from concept into practice through collaborative learning, awareness-building, and local experimentation."
+        "text": "Our current economic system is primarily concerned with maximizing profits at all costs. This leads not only to the destruction of our planet but also reinforces social inequality.\n\nIn response, more than 50 cities and local governments around the world have implemented the Doughnut Economics Framework into their policies and planning processes as a means to reimagine and work towards an alternative economic model that meets the social needs of people within our environmental limits. **Inspired by these examples, we founded DEFI to bring the principles of Doughnut Economics to Finland and put them into practice in our own context.**"
       }, 
       {
-        "heading": "Contribution",
-        "text": "I am mainly involved in two projects."
+        "heading": "Tools & Methods",
+        "text": "Within DEFI, I am mainly involved in developing participatory research tools and methods that engage people in reflecting on the dimensions of the Doughnut framework. By this, we create spaces for people to learn about Doughnut Economics and alternative ways of understanding our economy, but also gather insights into the social and ecological realities of local communities in Otanieme and Espoo. The aim is to better understand where our local context is falling short in meeting social needs and where we are exceeding ecological boundaries.\n\nSpecific tools and methods I have co-developed and facilitated, include for example:\n→ A Quick Participatory Doughnut Portrait Mapping Canvas to capture community perspectives\n→ A Donut Discovery Workshop with 10+ sustainability organisation around Otaniemie to establish partnerships\n→ A Step-Inside-the-Donut Workshop with Aalto University students to reflect on our current state of the economy\n→ An Interactive Booklet used in a Walkshop with residents of Espoo to learn about lived experiences on social and ecological issues"
+      }, 
+      {
+        "heading": "Outcomes",
+        "text": "Through all these projects, we were able to engage and collaborate with a wide range of stakeholders, including local residents, students, sustainability organisations, and city representatives. Ultimately, our goal is to plant the seed for a new economic model in Finland and beyond."
       },
       {
         "text": "[» Learn more on our website](https://doughnuteconomics.org/organisations-and-networks/doughnut-economics-finland-initiative-defi)"
