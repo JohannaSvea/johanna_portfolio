@@ -190,6 +190,23 @@
     let sectionIndex = 0;
     const article = bodyItems
       .map((item) => {
+        if (item.type === 'youtube') {
+          const i = sectionIndex++;
+          const videoId = typeof item.videoId === 'string' ? item.videoId.trim() : '';
+          if (!/^[\w-]{11}$/.test(videoId)) {
+            return '<p class="notice">This video has an invalid YouTube video ID.</p>';
+          }
+          const title = item.title || 'YouTube video';
+          return `
+            <figure class="article__video" id="section-${i}">
+              <button class="video-preview" type="button" data-youtube-play="${videoId}" aria-label="Play video: ${escapeHtml(title)}">
+                <img src="https://img.youtube.com/vi/${videoId}/hqdefault.jpg" alt="" loading="lazy" />
+                <span class="video-preview__play" aria-hidden="true"></span>
+              </button>
+              ${item.caption ? `<figcaption>${mdInline(item.caption)}</figcaption>` : ''}
+            </figure>`;
+        }
+
         if (item.type === 'image') {
           const image = escapeHtml(encodeURI(item.image.trim()));
           const caption = item.caption ? mdInline(item.caption) : '';
@@ -210,7 +227,10 @@
       .join('');
 
     const toc = sections
-      .map((s, i) => `<li><button type="button" data-toc="${i}">${mdInline(s.heading, { links: false })}</button></li>`)
+      .map((s, i) => {
+        const label = s.heading || (s.type === 'youtube' ? s.title || 'Video' : '');
+        return `<li><button type="button" data-toc="${i}">${mdInline(label, { links: false })}</button></li>`;
+      })
       .join('');
 
     const images = (Array.isArray(p.images) ? p.images : []).filter((item) => item && typeof item.image === 'string' && item.image.trim());
@@ -257,6 +277,19 @@
     $$('[data-toc]', root).forEach((btn) =>
       btn.addEventListener('click', () => {
         document.getElementById(`section-${btn.dataset.toc}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      })
+    );
+
+    $$('[data-youtube-play]', root).forEach((button) =>
+      button.addEventListener('click', () => {
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube-nocookie.com/embed/${button.dataset.youtubePlay}?autoplay=1`;
+        iframe.title = button.getAttribute('aria-label')?.replace(/^Play video: /, '') || 'YouTube video';
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+        iframe.loading = 'lazy';
+        iframe.referrerPolicy = 'strict-origin-when-cross-origin';
+        button.replaceWith(iframe);
       })
     );
 
