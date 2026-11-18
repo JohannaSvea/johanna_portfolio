@@ -1013,7 +1013,6 @@ a.card:focus-visible .card__arrow {
 
 .cv-entry .cv-entry__title {
   margin-top: 0;
-  text-transform: uppercase;
 }
 
 .job summary {
@@ -1026,10 +1025,6 @@ a.card:focus-visible .card__arrow {
 
 .job summary::-webkit-details-marker {
   display: none;
-}
-
-.job .cv-entry__title {
-  text-transform: uppercase;
 }
 
 .job__org {
