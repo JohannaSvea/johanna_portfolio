@@ -11,13 +11,15 @@
       "column": "left",
       "entries": [
         {
-          "meta": "01/09/2024 – 16/06/2026 · Aalto University, Finland",
+          "meta": "01/09/2024 – 16/06/2026 · Finland",
           "title": "MA Social and Service Design",
-          "details": "- Focus: Sustainable Transitions · Design Research · Systems Thinking\n-Minor in International Design Business Management\n- Thesis: Local Knowledge and Weather Forecasting Practices in Transition – An Exploration through the Climate Service DROP app in Ghana (Grade: 5.0/5.0) [» PDF Thesis](https://johannasvea.github.io/pdf_display/Thesis/Master-Design-CoID_Weigel_Johanna_2026.pdf)"
+          "organisation": "Aalto University, School of Arts, Design and Architecture",
+          "details": "- Focus: Sustainable Transitions · Design Research · Systems Thinking\n- Minor in International Design Business Management\n- Thesis: Local Knowledge and Weather Forecasting Practices in Transition – An Exploration through the Climate Service DROP app in Ghana (Grade: 5.0/5.0) [» PDF Thesis](https://johannasvea.github.io/pdf_display/Thesis/Master-Design-CoID_Weigel_Johanna_2026.pdf)"
         },
         {
-          "meta": "01/09/2020 – 17/07/2023 · University of the Arts Berlin, Germany",
+          "meta": "01/09/2020 – 17/07/2023 · Germany",
           "title": "BA Communication in Social and Economic Contexts",
+          "organisation": "University of the Arts Berlin",
           "details": "- Focus: Media research · Strategic Communication · Sociology · Psychology · Gender Studies\n- Thesis: Resistance to Gender-Inclusive Language – Examination from a Psychological Perspective and Design Concepts for Mitigating Conflict Potentials (Grade: 1.0/1.0)"
         }
       ]
@@ -90,19 +92,23 @@
       "entries": [
         {
           "meta": "01/01/2026",
-          "text": "**DAAD Scholarship** · Awarded based on academic performance by the German Academic Exchange Service."
+          "title": "DAAD Scholarship",
+          "text": "Awarded based on academic performance by the German Academic Exchange Service."
         },
         {
           "meta": "20/10/2025",
-          "text": "**Campus Sustainability Champion** · Awarded by Aalto University – ACRE for outstanding community impact. [» Blogpost](https://acre.aalto.fi/en/news/campus-sustainability-champion-concrete-actions-for-creating-hope)"
+          "title": "Campus Sustainability Champion",
+          "organisation": "Awarded by Aalto University – ACRE for outstanding community impact. [» Blogpost](https://acre.aalto.fi/en/news/campus-sustainability-champion-concrete-actions-for-creating-hope)"
         },
         {
           "meta": "20/07/2025",
-          "text": "**Global Student Service Design Challenge Finalist & Honorable Mention** · Among 180 international teams. [» Website](https://servicedesignchallenge.com/winner-announcement-2025#section_awuso8ic0)"
+          "title": "Global Student Service Design Challenge (Finalist & Honorable Mention)",
+          "text": "Among 180 international teams. [» Website](https://servicedesignchallenge.com/winner-announcement-2025#section_awuso8ic0)"
         },
         {
           "meta": "10/11/2024",
-          "text": "**2nd Place at Junction** · Europe’s largest Hackathon (1,500+ participants). Challenge by HK Foods."
+          "title": "2nd Place at Junction",
+          "text": "Europe’s largest Hackathon (1,500+ participants). Challenge by HK Foods."
         }
       ]
     },
@@ -117,19 +123,25 @@
     },
     {
       "heading": "Voluntary engagement",
-      "column": "right",
+      "column": "left",
       "entries": [
         {
           "meta": "01/01/2025 – 25/05/2026",
-          "text": "**Student representative** position at the Academic Committee for Arts, Design and Architecture at Aalto University."
+          "title": "Student representative at the Academic Committee",
+          "organisation": "Aalto University, School of Arts, Design and Architecture",
+          "details": "- Represented the student perspective in decision-making processes related to current studies and degree programs\n- Participated in meetings to discuss academic policies"
         },
         {
           "meta": "01/02/2025 – 31/12/2025",
-          "text": "**Event Lead** – Board CRUST Ry."
+          "title": "Event Lead - Board",
+          "organisation": "CRUST Ry - Creative Sustainability Association",
+          "details": "- Managed planning, partnerships, communication, budgeting, and logistics for 12 sustainability events for up to 80 participants while leading a team of 9 volunteers"
         },
         {
           "meta": "01/06/2025 – 31/10/2025",
-          "text": "**Tutor for Master’s students** at Aalto University."
+          "title": "Tutor for Master’s students",
+          "organisation": "Aalto University, School of Arts, Design and Architecture",
+          "details": "- Mentored 25 international students, coordinated and organized orientation activities, and developed a welcome guide to support their transition to Finland"
         }
       ]
     }

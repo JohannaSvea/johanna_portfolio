@@ -1433,6 +1433,10 @@ body:has(.stack) {
   margin-top: 6px;
 }
 
+.cv-entry__title + .cv-entry__text {
+  margin-top: 0;
+}
+
 .job .cv-entry__meta,
 .job .cv-entry__title {
   display: block;
