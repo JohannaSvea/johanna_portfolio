@@ -180,7 +180,7 @@
       "output": "Crowdfunding campaign, production of boardgame, narrative audio instruction, online shop, partnerships and impact-oriented distribution model",
       "keywords": "Games, Climate Communication, Skill Training",
       "team": "Momo Arnoldt, Mareile Klose, Lao Wurth",
-      "partnership": "Universität der Künste Berlin, Germany\nUtopian Playground - Transmediale 2024\nFuturium\nOffenes Wohnzimmer",
+      "partnership": "Universität der Künste Berlin, Germany\nUtopian Playground - Transmediale 2024\nFuturium\nOffenes Wohnzimmer\nBerliner Energietage 2022",
       "funding": "Crowdfunding\nDemokratie in der Mitte - Demokratie leben (BMBFSFJ)\nBerliner Bibliotheksverbund (Voebb)",
       "duration": "2022 - 2023 (part-time)",
       "location": "Berlin, Germany"
@@ -188,11 +188,34 @@
     "intro": "Using game-based facilitation to explore disagreement and support constructive dialogue around climate-related challenges.",
     "body": [
       {
-        "heading": "Purpose",
+        "heading": "Problem",
         "text": "The project uses design games to create a safe and playful environment for discussing conflictive perspectives and building shared understanding."
       },
       {
+        "heading": "Goal & Positioning",
+        "text": "Coming soon."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/ÜBERmorgen/positioning.png"
+        },
+      {
         "heading": "Process & Methods",
+        "text": "Coming soon."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/ÜBERmorgen/process.png"
+        },
+      {
+        "text": "Coming soon."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/ÜBERmorgen/testing-methods.png"
+        },
+      {
+        "heading": "Design & Business Model",
         "text": "Coming soon."
       }
     ]
