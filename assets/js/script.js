@@ -236,11 +236,13 @@
 
     const tocItems = sections
       .map((section, index) => ({ section, index }))
-      .filter(({ section }) => section.type !== 'youtube' && section.heading);
+      .filter(({ section }) => {
+        const heading = typeof section.heading === 'string' ? section.heading.trim() : '';
+        return section.type !== 'youtube' && section.type !== 'video' && heading && heading.toLowerCase() !== 'video';
+      });
     const toc = tocItems
       .map(({ section, index }) => {
-        const label = section.heading || (section.type === 'youtube' ? section.title || 'Video' : '');
-        return `<li><button type="button" data-toc="${index}">${mdInline(label, { links: false })}</button></li>`;
+        return `<li><button type="button" data-toc="${index}">${mdInline(section.heading, { links: false })}</button></li>`;
       })
       .join('');
 
