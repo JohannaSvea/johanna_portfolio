@@ -180,7 +180,7 @@
       "output": "Crowdfunding campaign, production of boardgame, narrative audio instruction, online shop, partnerships and impact-oriented distribution model",
       "keywords": "Games, Climate Communication, Skill Training",
       "team": "Momo Arnoldt, Mareile Klose, Lao Wurth",
-      "partnership": "Universität der Künste Berlin, Germany\nUtopian Playground - Transmediale 2024\nFuturium\nOffenes Wohnzimmer\nBerliner Energietage 2022",
+      "partnership": "Universität der Künste Berlin, Germany\nUtopian Playground - Transmediale 2024\nFuturium\nOffenes Wohnzimmer\nsustainchange\nBerliner Energietage 2022",
       "funding": "Crowdfunding\nDemokratie in der Mitte - Demokratie leben (BMBFSFJ)\nBerliner Bibliotheksverbund (Voebb)",
       "duration": "2022 - 2023 (part-time)",
       "location": "Berlin, Germany"
@@ -189,11 +189,11 @@
     "body": [
       {
         "heading": "Problem",
-        "text": "The project uses design games to create a safe and playful environment for discussing conflictive perspectives and building shared understanding."
+        "text": "Discussions about the climate crisis are uncomfortable. This was the main finding of our preliminary interview study we conducted in Berlin with individuals aged 21 to 88. Interviewees expressed feelings of anxiety and powerlessness, as well as uncertainty about the value and productivity of such discussions. They described experiences of stigma and a lack of empathy when different viewpoints clashed, which often led them to avoid controversial topics altogether. In this context, media discourse is also often shaped by polarization, which contributes to these challenges.\n\nLiterature research highlights the importance of creating a culture of open discussion and addressing communication gaps in order to navigate crises and conflicts. Ultimately, there is a need for more constructive, less accusatory and solution-oriented forms of dialogue that allow people with different perspectives to engage with one another."
       },
       {
         "heading": "Goal & Positioning",
-        "text": "Coming soon."
+        "text": "Our primary goal was to create a space for discussion that is detached from emotionally charged real-world contexts. Through this, we wanted to strengthen the communication skills and social competencies of individuals needed to navigate conflicting perspectives and engage constructively with different viewpoints.More specifically, we aimed to improve confidence in expressing one's opinions, empathy towards others, negotiation skills and a willingness to compromise in order to find solutions and make decisions that consider the needs and perspectives of all stakeholders involved.\n\nGames are recognized for their effectivness to facilitate learning through play and interaction. However, rather than creating a purely entertaining board game or an explicitly educational one, our aim was to develop a game that is genuinely fun to play, while the learning experience is subtly integrated into its underlying mechanics."
       },
       {
         "type": "image",
@@ -222,6 +222,9 @@
         "type": "youtube",
         "videoId": "S3GtVNBZQuQ",
         "title": "ÜBERmorgen — Design & Business Model"
+      },
+      {
+        "text": "[» Learn more on our website & online shop](https://uebermorgen-spiel-um-die-zukunft.de/)"
       }
     ]
   },
