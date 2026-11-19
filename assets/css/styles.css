@@ -694,8 +694,7 @@ a.card:focus-visible .card__arrow {
   transition: background 0.2s ease;
 }
 
-.overview__row::before,
-.overview__row:last-child::after {
+.overview__row::before {
   content: '';
   position: absolute;
   left: 0;
@@ -709,8 +708,8 @@ a.card:focus-visible .card__arrow {
   top: 0;
 }
 
-.overview__row:last-child::after {
-  bottom: 0;
+.overview__row:last-child {
+  border-bottom: 1px solid var(--line);
 }
 
 .overview__row:hover {
