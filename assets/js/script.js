@@ -234,16 +234,19 @@
       })
       .join('');
 
-    const toc = sections
-      .map((s, i) => {
-        const label = s.heading || (s.type === 'youtube' ? s.title || 'Video' : '');
-        return `<li><button type="button" data-toc="${i}">${mdInline(label, { links: false })}</button></li>`;
+    const tocItems = sections
+      .map((section, index) => ({ section, index }))
+      .filter(({ section }) => section.heading || section.type === 'youtube');
+    const toc = tocItems
+      .map(({ section, index }) => {
+        const label = section.heading || (section.type === 'youtube' ? section.title || 'Video' : '');
+        return `<li><button type="button" data-toc="${index}">${mdInline(label, { links: false })}</button></li>`;
       })
       .join('');
 
     const images = (Array.isArray(p.images) ? p.images : []).filter((item) => item && typeof item.image === 'string' && item.image.trim());
     const tocHTML =
-      sections.length > 1
+      tocItems.length > 1
         ? `<nav class="toc" aria-label="On this page"><p class="toc__label">On this page</p><ol>${toc}</ol></nav>`
         : '';
     const galleryHTML = images.length
