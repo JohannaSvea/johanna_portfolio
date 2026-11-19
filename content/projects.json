@@ -210,6 +210,10 @@
       {
         "text": "**Narrative & Storytelling**\nWe chose a futuristic sci-fi setting, using satire and humor as the foundation of the game's narrative. Through an exaggerated fictional world, including elements such as a malfunctioning spaceship and bizarre characters, we wanted to satirize individualism, wealth and existing societal structures. This allowed us to create a playful atmosphere in which otherwise controversial and complex topics could be approached with wit and a sense of humor. In doing so, we encourage players to question familiar norms, challenge existing boundaries and reflect on alternative ways of organizing society."
         },
+        {
+        "type": "image",
+        "image": "content/photos/ÜBERmorgen/storystelling.png"
+        },
       {
         "text": "**Game Mechanics**\nAlongside the narrative, we explored a range of existing board game mechanics and selected those that help represent real-world dynamics and translate the current communication challenges of public discourse into tangible game interactions."
       },
@@ -219,7 +223,7 @@
         "text": "- **Semi-cooperative gameplay:** Players have individual objectives but also need to work together to achieve shared goals. This creates tensions between self-interest and collective wellbeing.\n- **Legacy mechanics:** Decisions and actions have lasting consequences. This shapes the game world and influences what happens in later stages.\n- **Variable player powers:** Each player has different abilities or strengths. This encourages players to recognize and negotiate their different capacities and perspectives.\n- **Modular board:** The game board and environment changes over the course of the game.\n- **Multi-scoring:** Various actions contribute elements to game scores, often unequally. This introduces the difficulty of balancing competing priorities.\n- **Bluffing:** Players can conceal information or intentions. This introduces questions of trust, uncertainty and strategic communication.\n- **Simultaneous / real-time play:** Players make decisions or take actions at the same time. This creates time pressure and requires coordination and quick negotiation.\n- **Secret assignments:** Players have individual hidden objectives that may differ from or conflict with those of others. This encourages negotiation and the discovery of shared interests.\n- **Resource management:** Players must negotiate how limited resources are distributed and used. This confronts players with trade-offs between individual ambitions and collective needs."
       },
       {
-        "text": "**Testing & Balancing**\nTesting and balancing were crucial throughout the development process to assess whether the game mechanics worked as intended and informed ongoing adjustments and improvements to the dynamics, rules, and overall game experience.We tested the game with different group sizes and age ranges. Data collection followed a three-part process:"
+        "text": "**Testing & Balancing**\nTesting and balancing were crucial throughout the development process to assess whether the game mechanics worked as intended and informed ongoing adjustments and improvements to the dynamics, rules, and overall game experience. We tested the game with different group sizes and age ranges. Data collection followed a three-part process:"
       },
       {
         "type": "image",
@@ -227,11 +231,22 @@
         },
       {
         "heading": "Design",
-        "text": "The game's visual design is inspired by retro-futurism and combines playful illustrations and humorous language to create a distinctive and immersive atmosphere.\nTo overcome the challenges of complex rulebooks, we developed an entertaining, narrative audiobook where the the spaceship's intelligent assistant Kai is guiding the players through the game. "
+        "text": "The game's visual design is inspired by retro-futurism and combines playful illustrations and humorous language to create a distinctive and immersive atmosphere."
+       },
+       {
+        "type": "image",
+        "image": "content/photos/ÜBERmorgen/visual-design.png"
+        },
+      {
+        "text": "To overcome the challenges of complex rulebooks, we developed an entertaining, narrative audiobook where the the spaceship's intelligent assistant Kai is guiding the players through the game. "
       },
       {
+        "type": "image",
+        "image": "content/photos/ÜBERmorgen/rulebook.png"
+        },
+      {
         "heading": "Business Model & Distribution",
-        "text": "We implemented an alternative approaches to production, financing and distribution to make the game as accessible, affordable and sustainable as possible.\n\nThe game was self-published and financed through a combination of crowdfunding and grants supporting sustainable and educational projects, including funding from the German federal government and the City of Berlin.\n\nFurther, we wanted the game to reach people and communities regardless of their economic status. To support this, we donated copies to non-profit and public institutions, including libraries, community centres and youth clubs, as well as built partnerships with physical museum shops and online retailers to make the game available through different channels.\n\nThese collaborations also created opportunities to bring the game into different learning and community settings. We organised workshops at places such as the Futurium museum, the Offenes Wohnzimmer community centre, public libraries in Berlin-Mitte, and with school classes. The game has also found its way into university teaching, where lecturers have purchased copies for use in educational game design courses.\n\nWatch the trailer of our game which we produced for our crowdfunding campaign:"
+        "text": "We implemented an alternative approaches to production, financing and distribution to make the game as accessible, affordable and sustainable as possible.\n\nThe game was self-published and financed through a combination of crowdfunding and grants supporting sustainable and educational projects, including funding from the German federal government and the City of Berlin.\n\nFurther, we wanted the game to reach people and communities regardless of their economic status. To support this, we donated copies to non-profit and public institutions, including libraries, community centres and youth clubs, as well as built partnerships with physical museum shops and online retailers to make the game available through different channels.\n\nThese collaborations also created opportunities to bring the game into different learning and community settings. We organised workshops at places such as the Futurium museum, the Offenes Wohnzimmer community centre, public libraries in Berlin-Mitte, and with school classes. The game has also found its way into university teaching, where lecturers have purchased copies for use in educational game design courses.\n\nWatch the trailer of our game which we produced for our crowdfunding campaign (in german):"
       },
       {
         "type": "youtube",
