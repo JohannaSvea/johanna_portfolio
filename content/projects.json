@@ -84,7 +84,7 @@
     "color": "#B8C792",
     "table": {
       "topic": "A Participatory Assessment of Solar Oven Integration within Traditional Mayan Food Practices",
-      "Output": "Community-centered implementation strategy and educational cookbook-zine",
+      "Output": "Community-centered implementation strategy, Key inisght in challenges and opportunities for adoption; An educational cookbook-zine",
       "Outcome": "40% increase in participants' confidence and knowledge of solar cooking",
       "keywords": "Social Resilience, Energy Transitions, Health & Wellbeing, Water Security, Local Food Practices, Socio-Technical Systems",
       "team": "Ren Ran, Zou Zhengzhen, Pragati Singhal (Mentor), Bhattarabhop Viriyaroj (Mentor)",
@@ -96,11 +96,31 @@
     "intro": "Exploring how solar technologies can support everyday food practices while respecting local cultural meanings and daily routines.",
     "body": [
       {
-        "heading": "Purpose",
+        "heading": "Research Gap",
         "text": "Coming soon."
       },
       {
-        "heading": "Process & Methods",
+        "type": "image",
+        "image": "content/photos/Mexico/1-map.png"
+        },
+      {
+        "heading": "Objective & Context",
+        "text": "Coming soon."
+      },
+      {
+        "heading": "Methodology",
+        "text": "Coming soon."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Mexico/1-map.png"
+        },
+      {
+        "heading": "Findings",
+        "text": "Coming soon."
+      },
+      {
+        "heading": "Discussion & Contribution",
         "text": "Coming soon."
       }
     ]
