@@ -81,6 +81,10 @@
     "coordinates": [18.97025, -89.61663],
     "year": 2025,
     "image": "content/photos/projects/PO-Mexico.png",
+    "images": [
+      { "image": "content/photos/Single-Parents/mockup-lego-cards.png",
+      "caption": "xxx" }
+    ],
     "color": "#B8C792",
     "table": {
       "topic": "A Participatory Assessment of Solar Oven Integration within Traditional Mayan Food Practices",
@@ -173,6 +177,10 @@
     "coordinates": [60.1915728417266, 25.032634126282208],
     "year": 2025,
     "image": "content/photos/projects/PO-SingleParents.png",
+    "images": [
+      { "image": "content/photos/Single-Parents/mockup-lego-cards.png",
+      "caption": "xxx" }
+    ],
     "color": "#98AEDE",
     "table": {
       "topic": "Analysis of structural, systemic challenges faced by single-parent families and opportunities for community-based interventions to strengthen social support networks",
@@ -197,6 +205,10 @@
       {
         "type": "image",
         "image": "content/photos/Single-Parents/shot-blueprint.png"
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Single-Parents/shot-BMK.png"
       },
       {
         "text": "[» See our full Service Blueprint and Business Model Canva in Detail here](https://johannasvea.github.io/pdf_display/04%20Resilient%20Support%20for%20Systems%20for%20Single%20Parents/Resilient%20Support%20Systems%20for%20Single%20Parents%20-%20Service%20Blueprint%20&%20Sustainable%20Business%20Model%20Canvas.pdf)"
