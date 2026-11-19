@@ -189,11 +189,11 @@
     "body": [
       {
         "heading": "Problem",
-        "text": "Discussions about the climate crisis are uncomfortable. This was the main finding of our preliminary interview study we conducted in Berlin with individuals aged 21 to 88. Interviewees expressed feelings of anxiety and powerlessness, as well as uncertainty about the value and productivity of such discussions. They described experiences of stigma and a lack of empathy when different viewpoints clashed, which often led them to avoid controversial topics altogether. In this context, media discourse is also often shaped by polarization, which contributes to these challenges.\n\nLiterature research highlights the importance of creating a culture of open discussion and addressing communication gaps in order to navigate crises and conflicts. Ultimately, there is a need for more constructive, less accusatory and solution-oriented forms of dialogue that allow people with different perspectives to engage with one another."
+        "text": "Discussions about the climate crisis are uncomfortable. This was the main finding of our preliminary interview study we conducted in Berlin with individuals aged 21 to 88. Interviewees expressed feelings of anxiety and powerlessness, as well as uncertainty about the value and productivity of such discussions. They described experiences of stigma and a lack of empathy when different viewpoints clashed, which often led them to avoid controversial topics altogether. In this context, media discourse is also often shaped by polarization, which contributes to these challenges.\n\nLiterature research highlights the importance of creating a culture of open discussion and addressing communication gaps in order to navigate crises and conflicts. **Ultimately, there is a need for more constructive, less accusatory and solution-oriented forms of dialogue that allow people with different perspectives to engage with one another.**"
       },
       {
         "heading": "Goal & Positioning",
-        "text": "Our primary goal was to create a space for discussion that is detached from emotionally charged real-world contexts. Through this, we wanted to strengthen the communication skills and social competencies of individuals needed to navigate conflicting perspectives and engage constructively with different viewpoints.More specifically, we aimed to improve confidence in expressing one's opinions, empathy towards others, negotiation skills and a willingness to compromise in order to find solutions and make decisions that consider the needs and perspectives of all stakeholders involved.\n\nGames are recognized for their effectivness to facilitate learning through play and interaction. However, rather than creating a purely entertaining board game or an explicitly educational one, our aim was to develop a game that is genuinely fun to play, while the learning experience is subtly integrated into its underlying mechanics."
+        "text": "Our primary goal was to create a space for discussion that is detached from emotionally charged real-world contexts. Through this, we wanted to strengthen the communication skills and social competencies of individuals needed to navigate conflicting perspectives and engage constructively with different viewpoints. More specifically, we aimed to improve confidence in expressing one's opinions, empathy towards others, negotiation skills and a willingness to compromise in order to find solutions and make decisions that consider the needs and perspectives of all stakeholders involved.\n\nGames are recognized for their effectivness to facilitate learning through play and interaction. However, rather than creating a purely entertaining board game or an explicitly educational one, our aim was to develop a game that is genuinely fun to play, while the learning experience is subtly integrated into its underlying mechanics. Thus, within the existing games market and landscape, we position ourself as followed:"
       },
       {
         "type": "image",
@@ -201,14 +201,25 @@
         },
       {
         "heading": "Process & Methods",
-        "text": "Coming soon."
+        "text": "We started by conducting semi-structured interviews with experts in board game design and development to better understand the process of creating games. These conversations helped us identify two central questions that guided our design process: *What emotions and thoughts do we want to evoke? And what behaviors and group dynamics do we want the game to bring out?*\nWith these aspects in mind, we moved into prototyping and experimented with different ways of translating our objectives into an engaging game experience."
       },
       {
         "type": "image",
         "image": "content/photos/ÜBERmorgen/process.png"
         },
       {
-        "text": "Coming soon."
+        "text": "**Narrative & Storytelling**\nWe chose a futuristic sci-fi setting, using satire and humor as the foundation of the game's narrative. Through an exaggerated fictional world, including elements such as a malfunctioning spaceship and bizarre characters, we wanted to satirize individualism, wealth and existing societal structures. This allowed us to create a playful atmosphere in which otherwise controversial and complex topics could be approached with wit and a sense of humor. In doing so, we encourage players to question familiar norms, challenge existing boundaries and reflect on alternative ways of organizing society."
+        },
+      {
+        "text": "**Game Mechanics**\nAlongside the narrative, we explored a range of existing board game mechanics and selected those that help represent real-world dynamics and translate the current communication challenges of public discourse into tangible game interactions."
+      },
+      {
+        "type": "details",
+        "summary": "Click here for an overview of the mechanics we incorporated:",
+        "text": "- **Semi-cooperative gameplay:** Players have individual objectives but also need to work together to achieve shared goals. This creates tensions between self-interest and collective wellbeing.\n- **Legacy mechanics:** Decisions and actions have lasting consequences. This shapes the game world and influences what happens in later stages.\n- **Variable player powers:** Each player has different abilities or strengths. This encourages players to recognize and negotiate their different capacities and perspectives.\n- **Modular board:** The game board and environment changes over the course of the game.\n- **Multi-scoring:** Various actions contribute elements to game scores, often unequally. This introduces the difficulty of balancing competing priorities.\n- **Bluffing:** Players can conceal information or intentions. This introduces questions of trust, uncertainty and strategic communication.\n- **Simultaneous / real-time play:** Players make decisions or take actions at the same time. This creates time pressure and requires coordination and quick negotiation.\n- **Secret assignments:** Players have individual hidden objectives that may differ from or conflict with those of others. This encourages negotiation and the discovery of shared interests.\n- **Resource management:** Players must negotiate how limited resources are distributed and used. This confronts players with trade-offs between individual ambitions and collective needs."
+      },
+      {
+        "text": "**Testing & Balancing**\nTesting and balancing were crucial throughout the development process to assess whether the game mechanics worked as intended and informed ongoing adjustments and improvements to the dynamics, rules, and overall game experience.We tested the game with different group sizes and age ranges. Data collection followed a three-part process:"
       },
       {
         "type": "image",

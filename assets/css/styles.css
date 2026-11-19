@@ -1022,8 +1022,21 @@ a.card:focus-visible .card__arrow {
   list-style: none;
 }
 
-.job summary::-webkit-details-marker {
+.article__details {
+  margin: 20px 0;
+}
+
+.job summary::-webkit-details-marker,
+.article__details summary::-webkit-details-marker {
   display: none;
+}
+
+.article__details summary {
+  position: relative;
+  display: block;
+  padding-right: 36px;
+  cursor: pointer;
+  list-style: none;
 }
 
 .job__org {
@@ -1044,7 +1057,21 @@ a.card:focus-visible .card__arrow {
   transition: transform 0.3s var(--ease);
 }
 
-.job[open] summary::after {
+.article__details summary::after {
+  content: '';
+  position: absolute;
+  right: 8px;
+  top: 6px;
+  width: 9px;
+  height: 9px;
+  border-right: 1px solid currentColor;
+  border-bottom: 1px solid currentColor;
+  transform: rotate(45deg);
+  transition: transform 0.3s var(--ease);
+}
+
+.job[open] summary::after,
+.article__details[open] summary::after {
   transform: translateY(4px) rotate(-135deg);
 }
 
@@ -1052,13 +1079,15 @@ a.card:focus-visible .card__arrow {
   color: var(--secondary);
 }
 
-.job ul {
+.job ul,
+.article__details ul {
   margin: 10px 0 0;
   padding-left: 18px;
   animation: view-in 0.4s var(--ease) both;
 }
 
-.job li + li {
+.job li + li,
+.article__details li + li {
   margin-top: 6px;
 }
 

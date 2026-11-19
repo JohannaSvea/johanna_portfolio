@@ -186,7 +186,7 @@
       .join('');
 
     const bodyItems = Array.isArray(p.body) ? p.body : [];
-    const sections = bodyItems.filter((item) => item.type !== 'image');
+    const sections = bodyItems.filter((item) => item.type !== 'image' && item.type !== 'details');
     let sectionIndex = 0;
     const article = bodyItems
       .map((item) => {
@@ -215,6 +215,14 @@
               <img src="${image}" alt="${escapeHtml(mdPlain(item.caption))}" loading="lazy" />
               ${caption ? `<figcaption>${caption}</figcaption>` : ''}
             </figure>`;
+        }
+
+        if (item.type === 'details') {
+          return `
+            <details class="article__details reveal">
+              <summary>${mdInline(item.summary, { links: false })}</summary>
+              ${mdBlock(item.text)}
+            </details>`;
         }
 
         const i = sectionIndex++;
