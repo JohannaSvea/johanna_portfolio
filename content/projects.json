@@ -174,6 +174,13 @@
     "coordinates": [52.539373979399684, 13.398052779161068],
     "year": 2023,
     "image": "content/photos/projects/PO-ÜBERmorgen.png",
+     "images": [
+      { "image": "content/photos/ÜBERmorgen/project-planning.png",
+      "caption": "project planning xxx" },
+      { "image": "content/photos/ÜBERmorgen/prototyping.png", "caption": "Prototyping xxx" },
+      { "image": "content/photos/ÜBERmorgen/game-testing2.png", "caption": "Game testing xxx" },
+      { "image": "content/photos/ÜBERmorgen/futurium-ws2.png", "caption": "Workshop Futurium" }
+    ],
     "color": "#B8C792",
     "table": {
       "topic": "Development of ÜBERmorgen - Ein Spiel um die Zukunft (a game about the future), an entertaining tool for improving communication skills and social competencies",
