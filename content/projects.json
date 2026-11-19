@@ -176,10 +176,10 @@
     "image": "content/photos/projects/PO-ÜBERmorgen.png",
      "images": [
       { "image": "content/photos/ÜBERmorgen/project-planning.png",
-      "caption": "project planning xxx" },
-      { "image": "content/photos/ÜBERmorgen/prototyping.png", "caption": "Prototyping xxx" },
-      { "image": "content/photos/ÜBERmorgen/game-testing2.png", "caption": "Game testing xxx" },
-      { "image": "content/photos/ÜBERmorgen/futurium-ws2.png", "caption": "Workshop Futurium" }
+      "caption": "Planning the project and game development process" },
+      { "image": "content/photos/ÜBERmorgen/prototyping.png", "caption": "Prototyping the first version of our game" },
+      { "image": "content/photos/ÜBERmorgen/game-testing2.png", "caption": "Gametesting the second version of our game" },
+      { "image": "content/photos/ÜBERmorgen/futurium-ws2.png", "caption": "Workshop at Futurium Museum in Berlin" }
     ],
     "color": "#B8C792",
     "table": {
