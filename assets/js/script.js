@@ -32,6 +32,31 @@
 
   const safeUrl = (url) => (/^\s*(javascript|data|vbscript):/i.test(url) ? '#' : url.trim());
 
+  function youtubeVideoId(item) {
+    const videoId = typeof item.videoId === 'string' ? item.videoId.trim() : '';
+    if (/^[\w-]{11}$/.test(videoId)) return videoId;
+    if (typeof item.url !== 'string') return '';
+
+    let url;
+    try {
+      url = new URL(item.url.trim());
+    } catch {
+      return '';
+    }
+
+    if (url.protocol !== 'https:' && url.protocol !== 'http:') return '';
+    const host = url.hostname.toLowerCase().replace(/^www\./, '');
+    let linkedVideoId = '';
+    if (host === 'youtu.be') {
+      linkedVideoId = url.pathname.split('/').filter(Boolean)[0] || '';
+    } else if (['youtube.com', 'm.youtube.com', 'youtube-nocookie.com'].includes(host)) {
+      const pathMatch = url.pathname.match(/^\/(?:embed|shorts|live)\/([\w-]{11})(?:\/|$)/);
+      linkedVideoId = url.searchParams.get('v') || (pathMatch ? pathMatch[1] : '');
+    }
+
+    return /^[\w-]{11}$/.test(linkedVideoId) ? linkedVideoId : '';
+  }
+
   function mdInline(text, { links = true } = {}) {
     const stash = [];
     let s = escapeHtml(text).replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, label, url) => {
@@ -192,9 +217,9 @@
       .map((item) => {
         if (item.type === 'youtube') {
           const i = sectionIndex++;
-          const videoId = typeof item.videoId === 'string' ? item.videoId.trim() : '';
-          if (!/^[\w-]{11}$/.test(videoId)) {
-            return '<p class="notice">This video has an invalid YouTube video ID.</p>';
+          const videoId = youtubeVideoId(item);
+          if (!videoId) {
+            return '<p class="notice">This video needs a valid YouTube URL or video ID.</p>';
           }
           const title = item.title || 'YouTube video';
           return `

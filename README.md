@@ -79,12 +79,13 @@ The `body` array can also include inline media blocks between text sections:
 
 ```json
 { "type": "image", "image": "content/photos/example.png", "caption": "Optional caption" }
-{ "type": "youtube", "videoId": "S3GtVNBZQuQ", "title": "Optional accessible title" }
+{ "type": "youtube", "url": "https://www.youtube.com/watch?v=S3GtVNBZQuQ", "title": "Optional accessible title" }
 { "type": "details", "summary": "Optional details", "text": "- First point\n- Second point" }
 ```
 
-YouTube videos appear as thumbnails and load the embedded player when clicked. Details blocks start
-collapsed and expand when their summary is clicked.
+YouTube videos accept full watch, `youtu.be`, shorts, or embed URLs (existing `videoId` values are
+also supported). They appear as thumbnails and load the embedded player when clicked. Details blocks
+start collapsed and expand when their summary is clicked.
 
 Card colour palette: `#5E719A`, `#98AEDE`, `#C6DCFF`, `#353F1E`, `#5F6D3B`, `#B8C792`.
 
