@@ -195,8 +195,26 @@
         "text": "Coming soon."
       },
       {
+        "type": "image",
+        "image": "content/photos/Single-Parents/shot-blueprint.png"
+      },
+      {
+        "text": "[» See our full Service Blueprint and Business Model Canva in Detail here](https://johannasvea.github.io/pdf_display/04%20Resilient%20Support%20for%20Systems%20for%20Single%20Parents/Resilient%20Support%20Systems%20for%20Single%20Parents%20-%20Service%20Blueprint%20&%20Sustainable%20Business%20Model%20Canvas.pdf)"
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Single-Parents/mockup-5.png"
+      },
+      {
+        "text": "[» Test our Prototype Knitt](https://www.figma.com/proto/MmjNXD6QcTo83KO74KoWqk/SDC-knitt?page-id=0%3A1&node-id=1-502&p=f&viewport=167%2C187%2C0.14&t=A01q9xfxB2FpO4x8-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A502)"
+      },
+      {
         "type": "youtube",
         "url": "https://www.youtube.com/watch?v=-A06HYo2qAI"
+      },
+      
+      {
+        "text": "[» Read our full Report here](https://johannasvea.github.io/pdf_display/04%20Resilient%20Support%20for%20Systems%20for%20Single%20Parents/Resilient%20Support%20Systems%20for%20Single%20Parents%20-%20Reports.pdf)"
       }
     ]
   },
