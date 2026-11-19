@@ -236,7 +236,7 @@
 
     const tocItems = sections
       .map((section, index) => ({ section, index }))
-      .filter(({ section }) => section.heading || section.type === 'youtube');
+      .filter(({ section }) => section.type !== 'youtube' && section.heading);
     const toc = tocItems
       .map(({ section, index }) => {
         const label = section.heading || (section.type === 'youtube' ? section.title || 'Video' : '');
