@@ -83,19 +83,19 @@
     "image": "content/photos/projects/PO-Mexico.png",
     "images": [
       { "image": "content/photos/Mexico/community.png",
-      "caption": "xxx" },
+      "caption": "Community El 20 de Noviembre in Mexico" },
       { "image": "content/photos/Mexico/notes-interview.png",
-      "caption": "xxx" },
+      "caption": "Taking notes while conducting semi-structured interviews with Mayan woman" },
       { "image": "content/photos/Mexico/observation.png",
-      "caption": "xxx" },
+      "caption": "Observing traditional cooking practices - Cooking panuchos" },
       { "image": "content/photos/Mexico/solar-oven.png",
-      "caption": "xxx" },
+      "caption": "Experimenting with the solar oven - Cooking tomatoes and habanero for salsa" },
       { "image": "content/photos/Mexico/participatory-cooking.png",
-      "caption": "xxx" },
+      "caption": "Engaging community members in the solar cooking process" },
       { "image": "content/photos/Mexico/tostatas.png",
-      "caption": "xxx" },
+      "caption": "Solar oven made tostadas" },
       { "image": "content/photos/Mexico/ws-poster.png",
-      "caption": "xxx" }
+      "caption": "Participatory workshop with the community" }
     ],
     "color": "#B8C792",
     "table": {
