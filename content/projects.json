@@ -203,8 +203,16 @@
         "text": "Coming soon."
       },
       {
+        "type": "image",
+        "image": "content/photos/Single-Parents/proccess.png"
+      },
+      {
         "heading": "Findings",
         "text": "Coming soon."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Single-Parents/persona.png"
       },
       {
         "heading": "Ideation",
