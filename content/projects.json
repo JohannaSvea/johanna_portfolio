@@ -190,8 +190,6 @@
     "year": 2025,
     "image": "content/photos/projects/PO-SingleParents.png",
     "images": [
-      { "image": "content/photos/Single-Parents/filming.png",
-      "caption": "xxx" },
       { "image": "content/photos/Single-Parents/mockup-lego-cards.png",
       "caption": "xxx" },
       { "image": "content/photos/Single-Parents/ws-material.png",
@@ -199,6 +197,8 @@
       { "image": "content/photos/Single-Parents/ws11.png",
       "caption": "xxx" },
       { "image": "content/photos/Single-Parents/Sketching.jpg",
+      "caption": "xxx" },
+      { "image": "content/photos/Single-Parents/filming.png",
       "caption": "xxx" }
     ],
     "color": "#98AEDE",
