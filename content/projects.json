@@ -191,15 +191,15 @@
     "image": "content/photos/projects/PO-SingleParents.png",
     "images": [
       { "image": "content/photos/Single-Parents/mockup-lego-cards.png",
-      "caption": "xxx" },
+      "caption": "Workshop Materials - Lego and Card Game" },
       { "image": "content/photos/Single-Parents/ws-material.png",
-      "caption": "xxx" },
+      "caption": "Workshop Materials - Character Canvas and Reflection Booklet" },
       { "image": "content/photos/Single-Parents/ws11.png",
-      "caption": "xxx" },
+      "caption": "Facilitating the game-based workshop with single parents" },
       { "image": "content/photos/Single-Parents/Sketching.jpg",
-      "caption": "xxx" },
+      "caption": "Sketching and ideating on our service solution after the workshop" },
       { "image": "content/photos/Single-Parents/filming.png",
-      "caption": "xxx" }
+      "caption": "Filming our final service concept" }
     ],
     "color": "#98AEDE",
     "table": {
@@ -220,34 +220,42 @@
       },
       {
         "heading": "Objective",
-        "text": "Therefore, our research asked: How might we curate a community of support for single parents that allows them greater freedom to pursue personal aspirations, self-care, and emotional connections?"
+        "text": "Therefore, our research asked: How might we curate a community of support for single parents that allows them greater freedom to pursue personal aspirations, self-care, and emotional connections? Specifically, we aim to explore non-policy-based interventions, with a focus on network- and community-based solutions to support single parents."
       },
       {
         "heading": "Process & Methodology",
-        "text": "Coming soon\n\nIdeation (Drop-down). "
+        "text": "First, we conducted a literature review and semi-structured interviews with single parents as well as service providers to understand the challenges of single parenthood in Helsinki. We then mapped the existing support ecosystem across public, private and third-sector services in Finland and benchmarked innovative approaches in other Nordic countries. Next, we held a co-design workshop with four parents to identify support needs and develop potential solutions, which we refined into three video prototypes. Finally, we conducted a prototype validation session with single parents to gather feedback and further develop the final service concept. "
       },
       {
         "type": "image",
         "image": "content/photos/Single-Parents/proccess.png"
       },
       {
+        "type": "details",
+        "summary": "Click here to learn more about the components designed for the game-based workshop:",
+        "text": "- **Card Game:** Situation and `wild´ cards representing everyday challenges and unexpected circumstances that players must navigate and respond to..\n- **Character Canvas:** Helps players create semi-fictional characters to maintaining some distance from their own personal experiences.\n- **Lego and Play Elements:** Resources that enable players to visualise, build and experiment with different solutionss when exploring possible responses to situation cards.\n- **Reflection Booklet:** Provides guiding questions and prompts to reflect on individual experiences, collaborative dynamics, challenges and learnings throughout the game."
+      },
+      {
+        "type": "details",
+        "summary": "Click here to learn more about the three service concepts that we proposed:",
+        "text": "- **AI powered assistant:** An AI-supported website that can help automate the finding, applying, scheduling of single-parent tasks and resources, supported by a real-person behind the scenes.\n- **Connection Café:** Sunday communal kitchen space, where single parents can hang out and bring their kids. Coffee and baked goods are sold. Communal dinner is held in the evenings with the opportunity to prepare meals for the week ahead.\n- **Connection App:** Local matching app that matches single parents to others in the neighbourhood based on shared interests."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Single-Parents/ecosystem.png",
+        "caption": "Ecosystem Map of Care"
+      },
+      {
         "heading": "Findings",
-        "text": "Coming soon."
+        "text": "Our findings highlighted four interconnected dimensions that shape the everyday realities of single parents: financial wellbeing, work-life balance, social networks and emotional health. We found that many existing structures are designed around two-parent households, and thus leave single parents to navigate difficult trade-offs between work, childcare and personal time. While reliable social networks can make a significant difference, support is not equally accessible to everyone, and a strong cultural emphasis on independence in Finland make asking for or offering help difficult. "
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Single-Parents/persona.png"
       },
       {
         "heading": "Discussion & Contribution",
-        "text": "Coming soon."
-      },
-      {
-        "type": "image",
-        "image": "content/photos/Single-Parents/ecosystem.png"
-      },
-      {
-        "type": "image",
-        "image": "content/photos/Single-Parents/shot-blueprint.png"
-      },
-      {
-        "text": "[» See our full Service Blueprint and Business Model Canva in Detail here](https://johannasvea.github.io/pdf_display/04%20Resilient%20Support%20for%20Systems%20for%20Single%20Parents/Resilient%20Support%20Systems%20for%20Single%20Parents%20-%20Service%20Blueprint%20&%20Sustainable%20Business%20Model%20Canvas.pdf)"
+        "text": "We narrowed down our final concept of a social connection app, Knitt. Knitt symbolizes the weaving together of a social fabric and is a localized social connection platform that matches single parents with other parents and community members based on proximity, shared situations, and everyday needs. Through activities such as playdates, walks, carpools, and informal meet-ups, the service enables parents to connect at their own pace while reducing emotional risk. By embedding care into ordinary routines, Knitt supports both parental well-being and children’s social lives, while strengthening local support networks."
       },
       {
         "type": "image",
@@ -255,7 +263,17 @@
       },
       {
         "text": "[» Test our Prototype Knitt](https://www.figma.com/proto/MmjNXD6QcTo83KO74KoWqk/SDC-knitt?page-id=0%3A1&node-id=1-502&p=f&viewport=167%2C187%2C0.14&t=A01q9xfxB2FpO4x8-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A502)"
-      },    
+      }, 
+      {
+        "text": "Alongside the service concept itself, this we developed a service blueprint, sustainable business model, and concept design scanrio to support sustainable solution implementation."
+      },
+      {
+        "type": "image",
+        "image": "content/photos/Single-Parents/shot-blueprint.png"
+      },
+      {
+        "text": "[» See our full Service Blueprint and Business Model Canva in Detail here](https://johannasvea.github.io/pdf_display/04%20Resilient%20Support%20for%20Systems%20for%20Single%20Parents/Resilient%20Support%20Systems%20for%20Single%20Parents%20-%20Service%20Blueprint%20&%20Sustainable%20Business%20Model%20Canvas.pdf)"
+      },   
       {
         "text":"The project received an honourable mention for its strong storytelling, grounded research, and global potential from the Service Design College. [» Watch our final project video on their website](https://servicedesignchallenge.com/winner-announcement-2025#section_awuso8ic0)"
         },
@@ -343,7 +361,7 @@
         "image": "content/photos/ÜBERmorgen/visual-design.png"
         },
       {
-        "text": "To overcome the challenges of complex rulebooks, we developed an entertaining, narrative audiobook where the the spaceship's intelligent assistant Kai is guiding the players through the game. "
+        "text": "To overcome the challenges of complex rulebooks, we developed an entertaining, narrative audiobook where the the spaceship's intelligent assistant Kai2.3 is guiding the players through the game. "
       },
       {
         "type": "image",
