@@ -119,7 +119,7 @@
         "image": "content/photos/Mexico/1-map.png"
         },
       {
-        "heading": "Objective & Context",
+        "heading": "Objective",
         "text": "Our research assesses current barriers as well as the potential of integrating solar ovens into traditional Mayan food practices. By looking at local needs, traditional cooking habits, and Mayan recipes, we aim to understand where solar cooking could fit into everyday life and how it can complement existing practices to make the technology more accessible and useful for the community."
       },
       {
@@ -190,7 +190,15 @@
     "year": 2025,
     "image": "content/photos/projects/PO-SingleParents.png",
     "images": [
+      { "image": "content/photos/Single-Parents/filming.png",
+      "caption": "xxx" },
       { "image": "content/photos/Single-Parents/mockup-lego-cards.png",
+      "caption": "xxx" },
+      { "image": "content/photos/Single-Parents/ws-material.png",
+      "caption": "xxx" },
+      { "image": "content/photos/Single-Parents/ws11.png",
+      "caption": "xxx" },
+      { "image": "content/photos/Single-Parents/Sketching.jpg",
       "caption": "xxx" }
     ],
     "color": "#98AEDE",
@@ -207,11 +215,15 @@
     "intro": "Designing collaborative practices for a cultural center that can better connect institutional strategy with community participation.",
     "body": [
       {
-        "heading": "Purpose",
+        "heading": "Research Problem",
+        "text": "Despite Finland’s strong family policies and social welfare systems, single parents continue to face structural challenges shaped by services designed for two caregivers. In 2023, one-fifth of all households with children in Finland were led by single parents, with around 1/3 of single mothers and 1/4 of single fathers at risk of poverty (Statistics Finland, 2023; European Institute for Gender Equality, 2024). While existing research documents these financial, social, and emotional challenges, it often overlooks how support could be meaningfully designed from single parents’ lived experiences. Therefore, our research asked: How might we curate a community of support for single parents that allows them greater freedom to pursue personal aspirations, self-care, and emotional connections?"
+      },
+      {
+        "heading": "Objective",
         "text": "Coming soon."
       },
       {
-        "heading": "Methods & Process",
+        "heading": "Process & Methodology",
         "text": "Coming soon."
       },
       {
@@ -231,7 +243,7 @@
         "text": "Coming soon."
       },
       {
-        "heading": "Output & Impact",
+        "heading": "Discussion & Contribution",
         "text": "Coming soon."
       },
       {
@@ -385,7 +397,7 @@
     "intro": "Using game-based facilitation to explore disagreement and support constructive dialogue around climate-related challenges.",
     "body": [
       {
-        "text": "[» Test our Prototype Mirra](https://johannasvea.github.io/pdf_display/02%20Building%20Bridges%20for%20Youth%20and%20Community/Building%20Bridges%20for%20Youth%20and%20Community%20-%20Mediation%20Prototype.html)"
+        "text": "[» Test our prototype Mirra](https://johannasvea.github.io/pdf_display/02%20Building%20Bridges%20for%20Youth%20and%20Community/Building%20Bridges%20for%20Youth%20and%20Community%20-%20Mediation%20Prototype.html)"
       },
       {
         "text": "[» Read our full report here](https://johannasvea.github.io/pdf_display/02%20Building%20Bridges%20for%20Youth%20and%20Community/Building%20Bridges%20for%20Youth%20and%20Community%20-%20Report.pdf)"
