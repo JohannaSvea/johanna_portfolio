@@ -193,7 +193,7 @@
       { "image": "content/photos/Single-Parents/mockup-lego-cards.png",
       "caption": "Workshop Materials - Lego and Card Game" },
       { "image": "content/photos/Single-Parents/ws-material.png",
-      "caption": "Workshop Materials - Character Canvas and Reflection Booklet" },
+      "caption": "Workshop Materials - Character Canvas, Game Probs and Reflection Booklet" },
       { "image": "content/photos/Single-Parents/ws11.png",
       "caption": "Facilitating the game-based workshop with single parents" },
       { "image": "content/photos/Single-Parents/Sketching.jpg",
@@ -238,7 +238,7 @@
       {
         "type": "details",
         "summary": "Click here to learn more about the three service concepts that we proposed:",
-        "text": "- **AI powered assistant:** An AI-supported website that can help automate the finding, applying, scheduling of single-parent tasks and resources, supported by a real-person behind the scenes.\n- **Connection Café:** Sunday communal kitchen space, where single parents can hang out and bring their kids. Coffee and baked goods are sold. Communal dinner is held in the evenings with the opportunity to prepare meals for the week ahead.\n- **Connection App:** Local matching app that matches single parents to others in the neighbourhood based on shared interests."
+        "text": "- **AI powered assistant:** An AI-supported platform that helps single parents find and access resources, manage service applications, and coordinate everyday tasks and schedules, with human support available behind the scenes.\n- **Connection Café:** Sunday communal kitchen space, where single parents can hang out and bring their kids. Coffee and baked goods are sold. Communal dinner is held in the evenings with the opportunity to prepare meals for the week ahead.\n- **Connection App:** Local matching app that matches single parents to others in the neighbourhood based on shared interests."
       },
       {
         "type": "image",
