@@ -91,13 +91,17 @@
       "column": "right",
       "entries": [
         {
+          "meta": "27/11/2026",
+          "title": "Aalto Pioneering Exellence Award 2026",
+          "text": "Awarded by Aalto University for the Test Site Project and its contribution to practical sustainability and cross-disciplinary activities."
+        },{
           "meta": "01/01/2026",
           "title": "DAAD Scholarship",
           "text": "Awarded based on academic performance by the German Academic Exchange Service."
         },
         {
           "meta": "20/10/2025",
-          "title": "Campus Sustainability Champion",
+          "title": "Campus Sustainability Champion 2025",
           "organisation": "Awarded by Aalto University – ACRE for outstanding community impact. [» Blogpost](https://acre.aalto.fi/en/news/campus-sustainability-champion-concrete-actions-for-creating-hope)"
         },
         {
